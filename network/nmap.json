@@ -1,6 +1,1 @@
-{
-  "name": "nmap",
-  "description": "Network mapper",
-  "category": "network",
-  "github_repo": ""
-}
+{"name":"nmap","description":"Network discovery and security auditing utility","category":"network","github_repo":"nmap/nmap","install_method":"source"}

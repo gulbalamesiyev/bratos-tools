@@ -1,6 +1,1 @@
-{
-  "name": "socat",
-  "description": "Multipurpose relay",
-  "category": "network",
-  "github_repo": ""
-}
+{"name":"socat","description":"Multipurpose relay (SOcket CAT)","category":"network","github_repo":"3ndG4me/socat","install_method":"source"}

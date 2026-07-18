@@ -1,6 +1,1 @@
-{
-  "name": "john",
-  "description": "John the Ripper",
-  "category": "crypto",
-  "github_repo": ""
-}
+{"name":"john","description":"John the Ripper password cracker","category":"crypto","github_repo":"openwall/john","install_method":"source"}

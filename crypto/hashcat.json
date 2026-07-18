@@ -1,6 +1,1 @@
-{
-  "name": "hashcat",
-  "description": "Advanced password recovery",
-  "category": "crypto",
-  "github_repo": "hashcat/hashcat"
-}
+{"name":"hashcat","description":"Advanced password recovery utility","category":"crypto","github_repo":"hashcat/hashcat","install_method":"source"}

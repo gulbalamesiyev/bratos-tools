@@ -1,6 +1,1 @@
-{
-  "name": "httpx",
-  "description": "HTTP probing",
-  "category": "recon",
-  "github_repo": "projectdiscovery/httpx"
-}
+{"name":"httpx","description":"Fast and multi-purpose HTTP probing tool","category":"recon","github_repo":"projectdiscovery/httpx"}

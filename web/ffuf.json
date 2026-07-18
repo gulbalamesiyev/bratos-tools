@@ -1,6 +1,1 @@
-{
-  "name": "ffuf",
-  "description": "Web fuzzer",
-  "category": "web",
-  "github_repo": "ffuf/ffuf"
-}
+{"name":"ffuf","description":"Fast web fuzzer written in Go","category":"web","github_repo":"ffuf/ffuf"}

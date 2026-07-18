@@ -1,6 +1,1 @@
-{
-  "name": "dalfox",
-  "description": "XSS scanner",
-  "category": "web",
-  "github_repo": "hahwul/dalfox"
-}
+{"name":"dalfox","description":"Powerful open-source XSS scanning tool and parameter analyzer","category":"web","github_repo":"hahwul/dalfox"}

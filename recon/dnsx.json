@@ -1,6 +1,1 @@
-{
-  "name": "dnsx",
-  "description": "DNS toolkit",
-  "category": "recon",
-  "github_repo": "projectdiscovery/dnsx"
-}
+{"name":"dnsx","description":"Fast and multi-purpose DNS toolkit","category":"recon","github_repo":"projectdiscovery/dnsx"}

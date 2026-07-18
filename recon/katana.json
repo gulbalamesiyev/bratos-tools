@@ -1,6 +1,1 @@
-{
-  "name": "katana",
-  "description": "Next-gen crawling and spidering",
-  "category": "recon",
-  "github_repo": "projectdiscovery/katana"
-}
+{"name":"katana","description":"Next-generation crawling and spidering framework","category":"recon","github_repo":"projectdiscovery/katana"}

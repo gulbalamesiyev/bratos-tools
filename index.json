@@ -7,57 +7,87 @@
       "version": "latest"
     },
     "amass": {
-      "description": "In-depth network mapping",
+      "description": "In-depth network mapping & external asset discovery",
       "category": "recon",
       "github_repo": "owasp-amass/amass",
       "version": "latest"
     },
     "assetfinder": {
-      "description": "Find domains and subdomains",
+      "description": "Find domains and subdomains related to a given domain",
       "category": "recon",
       "github_repo": "tomnomnom/assetfinder",
       "version": "latest"
     },
     "katana": {
-      "description": "Next-gen crawling and spidering",
+      "description": "Next-generation crawling and spidering framework",
       "category": "recon",
       "github_repo": "projectdiscovery/katana",
       "version": "latest"
     },
     "httpx": {
-      "description": "HTTP probing",
+      "description": "Fast and multi-purpose HTTP probing tool",
       "category": "recon",
       "github_repo": "projectdiscovery/httpx",
       "version": "latest"
     },
     "naabu": {
-      "description": "Fast port scanner",
+      "description": "Fast port scanner with focus on reliability and simplicity",
       "category": "recon",
       "github_repo": "projectdiscovery/naabu",
       "version": "latest"
     },
     "dnsx": {
-      "description": "DNS toolkit",
+      "description": "Fast and multi-purpose DNS toolkit",
       "category": "recon",
       "github_repo": "projectdiscovery/dnsx",
       "version": "latest"
     },
     "shuffledns": {
-      "description": "DNS bruteforcer",
+      "description": "Wrapper around massdns to enumerate valid subdomains",
       "category": "recon",
       "github_repo": "projectdiscovery/shuffledns",
       "version": "latest"
     },
     "uncover": {
-      "description": "Search engine queries",
+      "description": "Quickly discover exposed hosts using search engines",
       "category": "recon",
       "github_repo": "projectdiscovery/uncover",
       "version": "latest"
     },
     "rustscan": {
-      "description": "Lightning-fast port scanner",
-      "category": "recon",
+      "description": "Modern, fast port scanner",
+      "category": "network",
       "github_repo": "RustScan/RustScan",
+      "version": "latest"
+    },
+    "findomain": {
+      "description": "Fastest and most complete solution for domain recognition",
+      "category": "recon",
+      "github_repo": "Findomain/Findomain",
+      "version": "latest"
+    },
+    "gau": {
+      "description": "Fetch known URLs from AlienVault's Open Threat Exchange, Wayback Machine, and Common Crawl",
+      "category": "recon",
+      "github_repo": "lc/gau",
+      "version": "latest"
+    },
+    "waybackurls": {
+      "description": "Fetch all URLs that the Wayback Machine knows about for a domain",
+      "category": "recon",
+      "github_repo": "tomnomnom/waybackurls",
+      "version": "latest"
+    },
+    "hakrawler": {
+      "description": "Simple fast web crawler for gathering URLs and JavaScript file locations",
+      "category": "recon",
+      "github_repo": "hakluke/hakrawler",
+      "version": "latest"
+    },
+    "gospider": {
+      "description": "Fast web spider written in Go",
+      "category": "recon",
+      "github_repo": "jaeles-project/gospider",
       "version": "latest"
     },
     "nuclei": {
@@ -67,13 +97,13 @@
       "version": "latest"
     },
     "ffuf": {
-      "description": "Web fuzzer",
+      "description": "Fast web fuzzer written in Go",
       "category": "web",
       "github_repo": "ffuf/ffuf",
       "version": "latest"
     },
     "dalfox": {
-      "description": "XSS scanner",
+      "description": "Powerful open-source XSS scanning tool and parameter analyzer",
       "category": "web",
       "github_repo": "hahwul/dalfox",
       "version": "latest"
@@ -85,15 +115,45 @@
       "version": "latest"
     },
     "feroxbuster": {
-      "description": "Fast content discovery (Rust)",
+      "description": "Fast, recursive content discovery tool written in Rust",
       "category": "web",
       "github_repo": "epi052/feroxbuster",
       "version": "latest"
     },
+    "sqlmap": {
+      "description": "Automatic SQL injection and database takeover tool (Python)",
+      "category": "web",
+      "github_repo": "sqlmapproject/sqlmap",
+      "version": "latest"
+    },
+    "xsstrike": {
+      "description": "Advanced XSS detection suite (Python)",
+      "category": "web",
+      "github_repo": "s0md3v/XSStrike",
+      "version": "latest"
+    },
+    "commix": {
+      "description": "Automated All-in-One OS Command Injection and Exploitation Tool (Python)",
+      "category": "web",
+      "github_repo": "commixproject/commix",
+      "version": "latest"
+    },
+    "nikto": {
+      "description": "Web server scanner (Perl)",
+      "category": "web",
+      "github_repo": "sullo/nikto",
+      "version": "latest"
+    },
+    "wafw00f": {
+      "description": "Web Application Firewall Fingerprinting Tool (Python)",
+      "category": "web",
+      "github_repo": "EnableSecurity/wafw00f",
+      "version": "latest"
+    },
     "nmap": {
-      "description": "Network mapper",
+      "description": "Network discovery and security auditing utility",
       "category": "network",
-      "github_repo": "",
+      "github_repo": "nmap/nmap",
       "version": "latest"
     },
     "masscan": {
@@ -103,15 +163,63 @@
       "version": "latest"
     },
     "socat": {
-      "description": "Multipurpose relay",
+      "description": "Multipurpose relay (SOcket CAT)",
       "category": "network",
-      "github_repo": "",
+      "github_repo": "3ndG4me/socat",
+      "version": "latest"
+    },
+    "tcpdump": {
+      "description": "Command-line packet analyzer",
+      "category": "network",
+      "github_repo": "the-tcpdump-group/tcpdump",
+      "version": "latest"
+    },
+    "netcat": {
+      "description": "Networking utility for reading/writing network connections",
+      "category": "network",
+      "github_repo": "openbsd/src",
+      "version": "latest"
+    },
+    "bettercap": {
+      "description": "Swiss army knife for network attacks and monitoring",
+      "category": "network",
+      "github_repo": "bettercap/bettercap",
+      "version": "latest"
+    },
+    "sherlock": {
+      "description": "Hunt down social media accounts by username (Python)",
+      "category": "osint",
+      "github_repo": "sherlock-project/sherlock",
+      "version": "latest"
+    },
+    "holehe": {
+      "description": "Check if an email is attached to an account on sites (Python)",
+      "category": "osint",
+      "github_repo": "megadose/holehe",
+      "version": "latest"
+    },
+    "theHarvester": {
+      "description": "E-mails, subdomains and names enumeration (Python)",
+      "category": "osint",
+      "github_repo": "laramies/theHarvester",
+      "version": "latest"
+    },
+    "maigret": {
+      "description": "Collect a dossier on a person by username (Python)",
+      "category": "osint",
+      "github_repo": "soxoj/maigret",
+      "version": "latest"
+    },
+    "photon": {
+      "description": "Incredibly fast crawler designed for OSINT (Python)",
+      "category": "osint",
+      "github_repo": "s0md3v/Photon",
       "version": "latest"
     },
     "apktool": {
-      "description": "Reverse engineering Android APKs",
+      "description": "Reverse engineering Android APK files (Java)",
       "category": "apk",
-      "github_repo": "",
+      "github_repo": "iBotPeaches/Apktool",
       "version": "latest"
     },
     "jadx": {
@@ -120,28 +228,64 @@
       "github_repo": "skylot/jadx",
       "version": "latest"
     },
+    "dex2jar": {
+      "description": "Tools to work with android .dex and java .class files",
+      "category": "apk",
+      "github_repo": "pxb1988/dex2jar",
+      "version": "latest"
+    },
+    "smali": {
+      "description": "Assembler/disassembler for Android's dex format",
+      "category": "apk",
+      "github_repo": "JesusFreke/smali",
+      "version": "latest"
+    },
+    "adb": {
+      "description": "Android Debug Bridge (included in platform-tools)",
+      "category": "apk",
+      "github_repo": "",
+      "version": "latest"
+    },
     "aircrack-ng": {
-      "description": "WiFi security suite",
+      "description": "WiFi security auditing tools suite",
       "category": "wireless",
       "github_repo": "aircrack-ng/aircrack-ng",
       "version": "latest"
     },
     "reaver": {
-      "description": "WPS brute force",
+      "description": "Brute force attack against WiFi Protected Setup",
       "category": "wireless",
       "github_repo": "t6x/reaver-wps-fork-t6x",
       "version": "latest"
     },
+    "mdk4": {
+      "description": "WiFi testing tool from E7mer",
+      "category": "wireless",
+      "github_repo": "E7mer/Owl",
+      "version": "latest"
+    },
+    "hcxdumptool": {
+      "description": "Small tool to capture packets from wlan devices",
+      "category": "wireless",
+      "github_repo": "ZerBea/hcxdumptool",
+      "version": "latest"
+    },
     "hashcat": {
-      "description": "Advanced password recovery",
+      "description": "Advanced password recovery utility",
       "category": "crypto",
       "github_repo": "hashcat/hashcat",
       "version": "latest"
     },
     "john": {
-      "description": "John the Ripper",
+      "description": "John the Ripper password cracker",
       "category": "crypto",
-      "github_repo": "",
+      "github_repo": "openwall/john",
+      "version": "latest"
+    },
+    "searchsploit": {
+      "description": "Exploit-DB search tool (included in exploitdb)",
+      "category": "exploit",
+      "github_repo": "offensive-security/exploitdb",
       "version": "latest"
     },
     "crunch": {
@@ -151,9 +295,15 @@
       "version": "latest"
     },
     "cewl": {
-      "description": "Custom wordlist generator (Ruby)",
+      "description": "Custom Word List generator (Ruby)",
       "category": "password",
       "github_repo": "digininja/CeWL",
+      "version": "latest"
+    },
+    "awscli": {
+      "description": "AWS Command Line Interface",
+      "category": "cloud",
+      "github_repo": "aws/aws-cli",
       "version": "latest"
     },
     "radare2": {
@@ -163,9 +313,15 @@
       "version": "latest"
     },
     "binwalk": {
-      "description": "Firmware analysis",
+      "description": "Firmware analysis tool",
       "category": "reverse",
       "github_repo": "ReFirmLabs/binwalk",
+      "version": "latest"
+    },
+    "gdb": {
+      "description": "GNU Debugger",
+      "category": "reverse",
+      "github_repo": "",
       "version": "latest"
     }
   }

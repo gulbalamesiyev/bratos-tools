@@ -1,6 +1,1 @@
-{
-  "name": "shuffledns",
-  "description": "DNS bruteforcer",
-  "category": "recon",
-  "github_repo": "projectdiscovery/shuffledns"
-}
+{"name":"shuffledns","description":"Wrapper around massdns to enumerate valid subdomains","category":"recon","github_repo":"projectdiscovery/shuffledns"}

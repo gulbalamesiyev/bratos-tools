@@ -1,6 +1,1 @@
-{
-  "name": "amass",
-  "description": "In-depth network mapping",
-  "category": "recon",
-  "github_repo": "owasp-amass/amass"
-}
+{"name":"amass","description":"In-depth network mapping & external asset discovery","category":"recon","github_repo":"owasp-amass/amass"}

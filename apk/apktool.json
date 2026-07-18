@@ -1,6 +1,1 @@
-{
-  "name": "apktool",
-  "description": "Reverse engineering Android APKs",
-  "category": "apk",
-  "github_repo": ""
-}
+{"name":"apktool","description":"Reverse engineering Android APK files (Java)","category":"apk","github_repo":"iBotPeaches/Apktool","install_method":"source"}

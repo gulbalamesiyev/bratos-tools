@@ -1,6 +1,1 @@
-{
-  "name": "crunch",
-  "description": "Wordlist generator",
-  "category": "password",
-  "github_repo": "shadwork/crunch"
-}
+{"name":"crunch","description":"Wordlist generator","category":"password","github_repo":"shadwork/crunch","install_method":"source"}

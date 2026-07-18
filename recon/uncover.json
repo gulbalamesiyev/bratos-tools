@@ -1,6 +1,1 @@
-{
-  "name": "uncover",
-  "description": "Search engine queries",
-  "category": "recon",
-  "github_repo": "projectdiscovery/uncover"
-}
+{"name":"uncover","description":"Quickly discover exposed hosts using search engines","category":"recon","github_repo":"projectdiscovery/uncover"}
