@@ -1,0 +1,6 @@
+{
+  "name": "hashcat",
+  "description": "Advanced password recovery",
+  "category": "crypto",
+  "github_repo": "hashcat/hashcat"
+}

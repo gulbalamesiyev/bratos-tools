@@ -1,0 +1,6 @@
+{
+  "name": "radare2",
+  "description": "Reverse engineering framework",
+  "category": "reverse",
+  "github_repo": "radareorg/radare2"
+}

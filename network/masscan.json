@@ -1,0 +1,6 @@
+{
+  "name": "masscan",
+  "description": "Mass IP port scanner",
+  "category": "network",
+  "github_repo": "robertdavidgraham/masscan"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "feroxbuster",
+  "description": "Fast content discovery (Rust)",
+  "category": "web",
+  "github_repo": "epi052/feroxbuster"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "amass",
+  "description": "In-depth network mapping",
+  "category": "recon",
+  "github_repo": "owasp-amass/amass"
+}

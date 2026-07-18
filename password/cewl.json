@@ -1,0 +1,6 @@
+{
+  "name": "cewl",
+  "description": "Custom wordlist generator (Ruby)",
+  "category": "password",
+  "github_repo": "digininja/CeWL"
+}

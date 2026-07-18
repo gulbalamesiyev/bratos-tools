@@ -1,0 +1,6 @@
+{
+  "name": "dalfox",
+  "description": "XSS scanner",
+  "category": "web",
+  "github_repo": "hahwul/dalfox"
+}

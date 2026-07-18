@@ -1,0 +1,6 @@
+{
+  "name": "nuclei",
+  "description": "Vulnerability scanner",
+  "category": "web",
+  "github_repo": "projectdiscovery/nuclei"
+}

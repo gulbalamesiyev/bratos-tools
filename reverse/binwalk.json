@@ -1,0 +1,6 @@
+{
+  "name": "binwalk",
+  "description": "Firmware analysis",
+  "category": "reverse",
+  "github_repo": "ReFirmLabs/binwalk"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "rustscan",
+  "description": "Lightning-fast port scanner",
+  "category": "recon",
+  "github_repo": "RustScan/RustScan"
+}

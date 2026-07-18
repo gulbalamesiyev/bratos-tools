@@ -1,0 +1,6 @@
+{
+  "name": "jadx",
+  "description": "Dex to Java decompiler",
+  "category": "apk",
+  "github_repo": "skylot/jadx"
+}

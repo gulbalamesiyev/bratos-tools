@@ -1,0 +1,6 @@
+{
+  "name": "ffuf",
+  "description": "Web fuzzer",
+  "category": "web",
+  "github_repo": "ffuf/ffuf"
+}

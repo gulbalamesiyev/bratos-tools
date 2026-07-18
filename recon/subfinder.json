@@ -1,0 +1,6 @@
+{
+  "name": "subfinder",
+  "description": "Fast passive subdomain enumeration",
+  "category": "recon",
+  "github_repo": "projectdiscovery/subfinder"
+}

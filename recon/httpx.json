@@ -1,0 +1,6 @@
+{
+  "name": "httpx",
+  "description": "HTTP probing",
+  "category": "recon",
+  "github_repo": "projectdiscovery/httpx"
+}

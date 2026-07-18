@@ -1,0 +1,6 @@
+{
+  "name": "shuffledns",
+  "description": "DNS bruteforcer",
+  "category": "recon",
+  "github_repo": "projectdiscovery/shuffledns"
+}
