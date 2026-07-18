@@ -115,7 +115,7 @@
       "version": "latest"
     },
     "puredns": {
-      "description": "Reconnaissance tool",
+      "description": "Fast domain resolver with bruteforce",
       "category": "recon",
       "github_repo": "d3mondev/puredns",
       "version": "latest"
@@ -127,27 +127,57 @@
       "version": "latest"
     },
     "subzy": {
-      "description": "Reconnaissance tool",
+      "description": "Subdomain takeover vulnerability checker",
       "category": "recon",
       "github_repo": "LukaSikic/subzy",
       "version": "latest"
     },
     "subjack": {
-      "description": "Reconnaissance tool",
+      "description": "Subdomain takeover checker in Go",
       "category": "recon",
       "github_repo": "haccer/subjack",
       "version": "latest"
     },
     "dnsgen": {
-      "description": "Reconnaissance tool",
+      "description": "DNS generator for bruteforcing",
       "category": "recon",
       "github_repo": "ProjectAnte/dnsgen",
       "version": "latest"
     },
     "alterx": {
-      "description": "Reconnaissance tool",
+      "description": "Fast subdomain alteration tool",
       "category": "recon",
       "github_repo": "projectdiscovery/alterx",
+      "version": "latest"
+    },
+    "chaos-client": {
+      "description": "Client for ProjectDiscovery Chaos API",
+      "category": "recon",
+      "github_repo": "projectdiscovery/chaos-client",
+      "version": "latest"
+    },
+    "tlsx": {
+      "description": "TLS/SSL fingerprinting tool",
+      "category": "recon",
+      "github_repo": "projectdiscovery/tlsx",
+      "version": "latest"
+    },
+    "cdncheck": {
+      "description": "Check if an IP/host is behind CDN/WAF",
+      "category": "recon",
+      "github_repo": "projectdiscovery/cdncheck",
+      "version": "latest"
+    },
+    "mapcidr": {
+      "description": "CIDR range manipulation tool",
+      "category": "recon",
+      "github_repo": "projectdiscovery/mapcidr",
+      "version": "latest"
+    },
+    "notify": {
+      "description": "Stream output to notification services",
+      "category": "misc",
+      "github_repo": "projectdiscovery/notify",
       "version": "latest"
     },
     "nuclei": {
@@ -229,13 +259,13 @@
       "version": "latest"
     },
     "sstimap": {
-      "description": "Web security tool",
+      "description": "SSTI detection and exploitation",
       "category": "web",
       "github_repo": "vladko312/SSTImap",
       "version": "latest"
     },
     "nosqli": {
-      "description": "Web security tool",
+      "description": "NoSQL injection testing tool",
       "category": "web",
       "github_repo": "Charlie-belmer/nosqli",
       "version": "latest"
@@ -253,19 +283,19 @@
       "version": "latest"
     },
     "jwt-tool": {
-      "description": "Web security tool",
+      "description": "JWT security testing toolkit",
       "category": "web",
       "github_repo": "ticarpi/jwt_tool",
       "version": "latest"
     },
     "smuggler": {
-      "description": "Web security tool",
+      "description": "HTTP request smuggling scanner",
       "category": "web",
       "github_repo": "defparam/smuggler",
       "version": "latest"
     },
     "whatweb": {
-      "description": "Web security tool",
+      "description": "Website technology identification",
       "category": "web",
       "github_repo": "urbanadventurer/WhatWeb",
       "version": "latest"
@@ -277,19 +307,19 @@
       "version": "latest"
     },
     "cmseek": {
-      "description": "Web security tool",
+      "description": "CMS detection and exploitation suite",
       "category": "web",
       "github_repo": "Tuhinshubhra/CMSeeK",
       "version": "latest"
     },
     "chisel": {
-      "description": "Network security tool",
+      "description": "Fast TCP/UDP tunnel over HTTP",
       "category": "network",
       "github_repo": "jpillora/chisel",
       "version": "latest"
     },
     "cloudflared": {
-      "description": "Network security tool",
+      "description": "Cloudflare Tunnel client",
       "category": "network",
       "github_repo": "cloudflare/cloudflared",
       "version": "latest"
@@ -337,13 +367,13 @@
       "version": "latest"
     },
     "ngrok": {
-      "description": "Network security tool",
+      "description": "Secure tunnel for localhost",
       "category": "network",
       "github_repo": "inconshreveable/ngrok",
       "version": "latest"
     },
     "ligolo-ng": {
-      "description": "Network security tool",
+      "description": "Advanced tunneling/pivoting tool",
       "category": "network",
       "github_repo": "nicocha30/ligolo-ng",
       "version": "latest"
@@ -445,7 +475,7 @@
       "version": "latest"
     },
     "blackbird": {
-      "description": "OSINT tool",
+      "description": "OSINT tool for searching accounts by username",
       "category": "osint",
       "github_repo": "p1ngul1n0/blackbird",
       "version": "latest"
@@ -457,7 +487,7 @@
       "version": "latest"
     },
     "ghunt": {
-      "description": "OSINT tool",
+      "description": "Google account investigation tool",
       "category": "osint",
       "github_repo": "mxrch/GHunt",
       "version": "latest"
@@ -517,7 +547,7 @@
       "version": "latest"
     },
     "hydra": {
-      "description": "Password/crypto tool",
+      "description": "Parallelized login cracker",
       "category": "crypto",
       "github_repo": "vanhauser-thc/thc-hydra",
       "version": "latest"
@@ -547,13 +577,13 @@
       "version": "latest"
     },
     "metasploit": {
-      "description": "Penetration testing framework",
+      "description": "World's most used penetration testing framework",
       "category": "exploit",
       "github_repo": "rapid7/metasploit-framework",
       "version": "latest"
     },
     "searchsploit": {
-      "description": "Exploitation tool",
+      "description": "Exploit-DB offline search tool",
       "category": "exploit",
       "github_repo": "offensive-security/exploitdb",
       "version": "latest"
@@ -571,13 +601,13 @@
       "version": "latest"
     },
     "evilginx": {
-      "description": "Exploitation tool",
+      "description": "Man-in-the-middle attack framework for phishing",
       "category": "exploit",
       "github_repo": "kgretzky/evilginx2",
       "version": "latest"
     },
     "zphisher": {
-      "description": "Exploitation tool",
+      "description": "Automated phishing tool with 30+ templates",
       "category": "exploit",
       "github_repo": "htr-tech/zphisher",
       "version": "latest"
@@ -625,7 +655,7 @@
       "version": "latest"
     },
     "upx": {
-      "description": "Reverse engineering tool",
+      "description": "Ultimate Packer for eXecutables",
       "category": "reverse",
       "github_repo": "upx/upx",
       "version": "latest"
@@ -637,9 +667,9 @@
       "version": "latest"
     },
     "gdb": {
-      "description": "Reverse engineering tool",
+      "description": "GNU Debugger",
       "category": "reverse",
-      "github_repo": "gdb/gdb",
+      "github_repo": "bminor/binutils-gdb",
       "version": "latest"
     },
     "binwalk": {
@@ -649,7 +679,7 @@
       "version": "latest"
     },
     "cutter": {
-      "description": "Reverse engineering tool",
+      "description": "Free and open-source reverse engineering platform",
       "category": "reverse",
       "github_repo": "rizinorg/cutter",
       "version": "latest"
@@ -660,14 +690,8 @@
       "github_repo": "NationalSecurityAgency/ghidra",
       "version": "latest"
     },
-    "notify": {
-      "description": "Stream output to notification services",
-      "category": "misc",
-      "github_repo": "projectdiscovery/notify",
-      "version": "latest"
-    },
     "interactsh": {
-      "description": "OOB interaction gathering server and client",
+      "description": "OOB interaction gathering server/client",
       "category": "misc",
       "github_repo": "projectdiscovery/interactsh",
       "version": "latest"
@@ -715,13 +739,13 @@
       "version": "latest"
     },
     "apkleaks": {
-      "description": "Mobile security tool",
+      "description": "Scan APK files for URIs, endpoints, secrets",
       "category": "mobile",
       "github_repo": "dwisiswant0/apkleaks",
       "version": "latest"
     },
     "scrcpy": {
-      "description": "Mobile security tool",
+      "description": "Display and control Android devices",
       "category": "mobile",
       "github_repo": "Genymobile/scrcpy",
       "version": "latest"
@@ -781,7 +805,7 @@
       "version": "latest"
     },
     "testdisk": {
-      "description": "Forensics tool",
+      "description": "Data recovery and partition repair",
       "category": "forensics",
       "github_repo": "cgsecurity/testdisk",
       "version": "latest"
@@ -799,7 +823,7 @@
       "version": "latest"
     },
     "zsteg": {
-      "description": "Steganography tool",
+      "description": "Detect steganography in PNG/BMP",
       "category": "stego",
       "github_repo": "zed-0xff/zsteg",
       "version": "latest"
@@ -811,9 +835,9 @@
       "version": "latest"
     },
     "stegseek": {
-      "description": "Steganography tool",
+      "description": "Lightning fast steghide cracker",
       "category": "stego",
-      "github_repo": "unverricht/stegseek",
+      "github_repo": "RickdeJager/stegseek",
       "version": "latest"
     }
   }

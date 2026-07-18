@@ -1,1 +1,1 @@
-{"name":"jwt-tool","description":"Web security tool","category":"web","github_repo":"ticarpi/jwt_tool"}
+{"name":"jwt-tool","description":"JWT security testing toolkit","category":"web","github_repo":"ticarpi/jwt_tool","install_method":"git","git_url":"https://github.com/ticarpi/jwt_tool.git","requirements":"true"}

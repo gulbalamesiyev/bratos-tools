@@ -1,1 +1,1 @@
-{"name":"apkleaks","description":"Mobile security tool","category":"mobile","github_repo":"dwisiswant0/apkleaks"}
+{"name":"apkleaks","description":"Scan APK files for URIs, endpoints, secrets","category":"mobile","github_repo":"dwisiswant0/apkleaks","install_method":"git","git_url":"https://github.com/dwisiswant0/apkleaks.git","requirements":"true"}

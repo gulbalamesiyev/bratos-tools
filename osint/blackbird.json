@@ -1,1 +1,1 @@
-{"name":"blackbird","description":"OSINT tool","category":"osint","github_repo":"p1ngul1n0/blackbird"}
+{"name":"blackbird","description":"OSINT tool for searching accounts by username","category":"osint","github_repo":"p1ngul1n0/blackbird","install_method":"git","git_url":"https://github.com/p1ngul1n0/blackbird.git","requirements":"true"}

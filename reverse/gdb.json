@@ -1,1 +1,1 @@
-{"name":"gdb","description":"Reverse engineering tool","category":"reverse","github_repo":"gdb/gdb"}
+{"name":"gdb","description":"GNU Debugger","category":"reverse","github_repo":"bminor/binutils-gdb","install_method":"git","git_url":"https://github.com/bminor/binutils-gdb.git","requirements":"false","post_install":"./configure && make"}

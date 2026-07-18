@@ -1,1 +1,1 @@
-{"name":"zsteg","description":"Steganography tool","category":"stego","github_repo":"zed-0xff/zsteg"}
+{"name":"zsteg","description":"Detect steganography in PNG/BMP","category":"stego","github_repo":"zed-0xff/zsteg","install_method":"git","git_url":"https://github.com/zed-0xff/zsteg.git","requirements":"false"}

@@ -1,1 +1,1 @@
-{"name":"hydra","description":"Password/crypto tool","category":"crypto","github_repo":"vanhauser-thc/thc-hydra"}
+{"name":"hydra","description":"Parallelized login cracker","category":"crypto","github_repo":"vanhauser-thc/thc-hydra","install_method":"git","git_url":"https://github.com/vanhauser-thc/thc-hydra.git","requirements":"false","post_install":"./configure && make && make install"}

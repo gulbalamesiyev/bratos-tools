@@ -1,1 +1,1 @@
-{"name":"sstimap","description":"Web security tool","category":"web","github_repo":"vladko312/SSTImap"}
+{"name":"sstimap","description":"SSTI detection and exploitation","category":"web","github_repo":"vladko312/SSTImap","install_method":"git","git_url":"https://github.com/vladko312/SSTImap.git","requirements":"true"}

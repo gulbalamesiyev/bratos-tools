@@ -1,1 +1,1 @@
-{"name":"smuggler","description":"Web security tool","category":"web","github_repo":"defparam/smuggler"}
+{"name":"smuggler","description":"HTTP request smuggling scanner","category":"web","github_repo":"defparam/smuggler","install_method":"git","git_url":"https://github.com/defparam/smuggler.git","requirements":"false"}
