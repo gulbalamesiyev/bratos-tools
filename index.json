@@ -1,0 +1,172 @@
+{
+  "packages": {
+    "subfinder": {
+      "description": "Fast passive subdomain enumeration",
+      "category": "recon",
+      "github_repo": "projectdiscovery/subfinder",
+      "version": "latest"
+    },
+    "amass": {
+      "description": "In-depth network mapping",
+      "category": "recon",
+      "github_repo": "owasp-amass/amass",
+      "version": "latest"
+    },
+    "assetfinder": {
+      "description": "Find domains and subdomains",
+      "category": "recon",
+      "github_repo": "tomnomnom/assetfinder",
+      "version": "latest"
+    },
+    "katana": {
+      "description": "Next-gen crawling and spidering",
+      "category": "recon",
+      "github_repo": "projectdiscovery/katana",
+      "version": "latest"
+    },
+    "httpx": {
+      "description": "HTTP probing",
+      "category": "recon",
+      "github_repo": "projectdiscovery/httpx",
+      "version": "latest"
+    },
+    "naabu": {
+      "description": "Fast port scanner",
+      "category": "recon",
+      "github_repo": "projectdiscovery/naabu",
+      "version": "latest"
+    },
+    "dnsx": {
+      "description": "DNS toolkit",
+      "category": "recon",
+      "github_repo": "projectdiscovery/dnsx",
+      "version": "latest"
+    },
+    "shuffledns": {
+      "description": "DNS bruteforcer",
+      "category": "recon",
+      "github_repo": "projectdiscovery/shuffledns",
+      "version": "latest"
+    },
+    "uncover": {
+      "description": "Search engine queries",
+      "category": "recon",
+      "github_repo": "projectdiscovery/uncover",
+      "version": "latest"
+    },
+    "rustscan": {
+      "description": "Lightning-fast port scanner",
+      "category": "recon",
+      "github_repo": "RustScan/RustScan",
+      "version": "latest"
+    },
+    "nuclei": {
+      "description": "Vulnerability scanner",
+      "category": "web",
+      "github_repo": "projectdiscovery/nuclei",
+      "version": "latest"
+    },
+    "ffuf": {
+      "description": "Web fuzzer",
+      "category": "web",
+      "github_repo": "ffuf/ffuf",
+      "version": "latest"
+    },
+    "dalfox": {
+      "description": "XSS scanner",
+      "category": "web",
+      "github_repo": "hahwul/dalfox",
+      "version": "latest"
+    },
+    "dirsearch": {
+      "description": "Web path scanner (Python)",
+      "category": "web",
+      "github_repo": "maurosoria/dirsearch",
+      "version": "latest"
+    },
+    "feroxbuster": {
+      "description": "Fast content discovery (Rust)",
+      "category": "web",
+      "github_repo": "epi052/feroxbuster",
+      "version": "latest"
+    },
+    "nmap": {
+      "description": "Network mapper",
+      "category": "network",
+      "github_repo": "",
+      "version": "latest"
+    },
+    "masscan": {
+      "description": "Mass IP port scanner",
+      "category": "network",
+      "github_repo": "robertdavidgraham/masscan",
+      "version": "latest"
+    },
+    "socat": {
+      "description": "Multipurpose relay",
+      "category": "network",
+      "github_repo": "",
+      "version": "latest"
+    },
+    "apktool": {
+      "description": "Reverse engineering Android APKs",
+      "category": "apk",
+      "github_repo": "",
+      "version": "latest"
+    },
+    "jadx": {
+      "description": "Dex to Java decompiler",
+      "category": "apk",
+      "github_repo": "skylot/jadx",
+      "version": "latest"
+    },
+    "aircrack-ng": {
+      "description": "WiFi security suite",
+      "category": "wireless",
+      "github_repo": "aircrack-ng/aircrack-ng",
+      "version": "latest"
+    },
+    "reaver": {
+      "description": "WPS brute force",
+      "category": "wireless",
+      "github_repo": "t6x/reaver-wps-fork-t6x",
+      "version": "latest"
+    },
+    "hashcat": {
+      "description": "Advanced password recovery",
+      "category": "crypto",
+      "github_repo": "hashcat/hashcat",
+      "version": "latest"
+    },
+    "john": {
+      "description": "John the Ripper",
+      "category": "crypto",
+      "github_repo": "",
+      "version": "latest"
+    },
+    "crunch": {
+      "description": "Wordlist generator",
+      "category": "password",
+      "github_repo": "shadwork/crunch",
+      "version": "latest"
+    },
+    "cewl": {
+      "description": "Custom wordlist generator (Ruby)",
+      "category": "password",
+      "github_repo": "digininja/CeWL",
+      "version": "latest"
+    },
+    "radare2": {
+      "description": "Reverse engineering framework",
+      "category": "reverse",
+      "github_repo": "radareorg/radare2",
+      "version": "latest"
+    },
+    "binwalk": {
+      "description": "Firmware analysis",
+      "category": "reverse",
+      "github_repo": "ReFirmLabs/binwalk",
+      "version": "latest"
+    }
+  }
+}
