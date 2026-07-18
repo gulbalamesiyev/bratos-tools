@@ -61,7 +61,7 @@
       "version": "latest"
     },
     "nuclei": {
-      "description": "Vulnerability scanner",
+      "description": "Fast vulnerability scanner based on templates",
       "category": "web",
       "github_repo": "projectdiscovery/nuclei",
       "version": "latest"
