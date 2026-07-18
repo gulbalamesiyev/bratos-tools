@@ -12,6 +12,12 @@
       "github_repo": "owasp-amass/amass",
       "version": "latest"
     },
+    "findomain": {
+      "description": "Fastest solution for domain recognition",
+      "category": "recon",
+      "github_repo": "Findomain/Findomain",
+      "version": "latest"
+    },
     "katana": {
       "description": "Next-generation crawling and spidering framework",
       "category": "recon",
@@ -22,6 +28,12 @@
       "description": "Fast and multi-purpose HTTP probing tool",
       "category": "recon",
       "github_repo": "projectdiscovery/httpx",
+      "version": "latest"
+    },
+    "naabu": {
+      "description": "Fast port scanner with focus on reliability",
+      "category": "recon",
+      "github_repo": "projectdiscovery/naabu",
       "version": "latest"
     },
     "dnsx": {
@@ -42,10 +54,58 @@
       "github_repo": "projectdiscovery/uncover",
       "version": "latest"
     },
+    "hakrawler": {
+      "description": "Simple fast web crawler for gathering URLs",
+      "category": "recon",
+      "github_repo": "hakluke/hakrawler",
+      "version": "latest"
+    },
+    "waybackurls": {
+      "description": "Fetch all URLs from Wayback Machine",
+      "category": "recon",
+      "github_repo": "tomnomnom/waybackurls",
+      "version": "latest"
+    },
+    "gau": {
+      "description": "Fetch known URLs from multiple sources",
+      "category": "recon",
+      "github_repo": "lc/gau",
+      "version": "latest"
+    },
+    "anew": {
+      "description": "Append new lines to a file, skipping duplicates",
+      "category": "recon",
+      "github_repo": "tomnomnom/anew",
+      "version": "latest"
+    },
+    "qsreplace": {
+      "description": "Replace query string values with user-supplied values",
+      "category": "recon",
+      "github_repo": "tomnomnom/qsreplace",
+      "version": "latest"
+    },
     "gospider": {
       "description": "Fast web spider written in Go",
       "category": "recon",
       "github_repo": "jaeles-project/gospider",
+      "version": "latest"
+    },
+    "assetfinder": {
+      "description": "Find domains and subdomains related to a domain",
+      "category": "recon",
+      "github_repo": "tomnomnom/assetfinder",
+      "version": "latest"
+    },
+    "gf": {
+      "description": "A wrapper around grep to avoid typing common patterns",
+      "category": "recon",
+      "github_repo": "tomnomnom/gf",
+      "version": "latest"
+    },
+    "httprobe": {
+      "description": "Probe list of domains for working HTTP/HTTPS servers",
+      "category": "recon",
+      "github_repo": "tomnomnom/httprobe",
       "version": "latest"
     },
     "nuclei": {
@@ -66,10 +126,46 @@
       "github_repo": "hahwul/dalfox",
       "version": "latest"
     },
+    "arjun": {
+      "description": "HTTP parameter discovery suite (Python)",
+      "category": "web",
+      "github_repo": "s0md3v/Arjun",
+      "version": "latest"
+    },
+    "kiterunner": {
+      "description": "Contextual content discovery tool (API endpoints)",
+      "category": "web",
+      "github_repo": "assetnote/kiterunner",
+      "version": "latest"
+    },
+    "chisel": {
+      "description": "Fast TCP/UDP tunnel over HTTP",
+      "category": "network",
+      "github_repo": "jpillora/chisel",
+      "version": "latest"
+    },
+    "cloudflared": {
+      "description": "Cloudflare Tunnel client (argo tunnel)",
+      "category": "network",
+      "github_repo": "cloudflare/cloudflared",
+      "version": "latest"
+    },
+    "bettercap": {
+      "description": "Swiss army knife for network attacks and monitoring",
+      "category": "network",
+      "github_repo": "bettercap/bettercap",
+      "version": "latest"
+    },
     "rustscan": {
       "description": "Modern, fast port scanner",
       "category": "network",
       "github_repo": "RustScan/RustScan",
+      "version": "latest"
+    },
+    "trufflehog": {
+      "description": "Find and verify credentials in repos",
+      "category": "osint",
+      "github_repo": "trufflesecurity/trufflehog",
       "version": "latest"
     },
     "adb": {
@@ -78,10 +174,28 @@
       "github_repo": "",
       "version": "latest"
     },
+    "upx": {
+      "description": "Ultimate Packer for eXecutables",
+      "category": "reverse",
+      "github_repo": "upx/upx",
+      "version": "latest"
+    },
     "gdb": {
       "description": "GNU Debugger",
       "category": "reverse",
       "github_repo": "",
+      "version": "latest"
+    },
+    "notify": {
+      "description": "Stream output to notification services",
+      "category": "misc",
+      "github_repo": "projectdiscovery/notify",
+      "version": "latest"
+    },
+    "interactsh": {
+      "description": "OOB interaction gathering server and client",
+      "category": "misc",
+      "github_repo": "projectdiscovery/interactsh",
       "version": "latest"
     }
   }
