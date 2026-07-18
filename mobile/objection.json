@@ -1,1 +1,1 @@
-{"name":"objection","description":"Mobile security tool","category":"mobile","github_repo":"1N3/objection"}
+{"name":"objection","description":"Runtime mobile exploration","category":"mobile","github_repo":"sensepost/objection","install_method":"git","git_url":"https://github.com/sensepost/objection.git","requirements":"true"}

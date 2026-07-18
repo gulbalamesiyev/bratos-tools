@@ -1,1 +1,1 @@
-{"name":"john","description":"Password/crypto tool","category":"crypto","github_repo":"openwall/john"}
+{"name":"john","description":"John the Ripper password cracker","category":"crypto","github_repo":"openwall/john","install_method":"git","git_url":"https://github.com/openwall/john.git","requirements":"false","post_install":"cd src && ./configure && make"}

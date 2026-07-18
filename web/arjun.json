@@ -1,1 +1,1 @@
-{"name":"arjun","description":"Web security tool","category":"web","github_repo":"s0md3v/Arjun"}
+{"name":"arjun","description":"HTTP parameter discovery suite","category":"web","github_repo":"s0md3v/Arjun","install_method":"git","git_url":"https://github.com/s0md3v/Arjun.git","requirements":"true"}

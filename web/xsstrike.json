@@ -1,1 +1,1 @@
-{"name":"xsstrike","description":"Web security tool","category":"web","github_repo":"s0md3v/XSStrike"}
+{"name":"xsstrike","description":"Advanced XSS detection suite","category":"web","github_repo":"s0md3v/XSStrike","install_method":"git","git_url":"https://github.com/s0md3v/XSStrike.git","requirements":"true"}

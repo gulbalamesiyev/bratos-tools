@@ -169,7 +169,7 @@
       "version": "latest"
     },
     "arjun": {
-      "description": "Web security tool",
+      "description": "HTTP parameter discovery suite",
       "category": "web",
       "github_repo": "s0md3v/Arjun",
       "version": "latest"
@@ -181,25 +181,25 @@
       "version": "latest"
     },
     "sqlmap": {
-      "description": "Web security tool",
+      "description": "Automatic SQL injection tool",
       "category": "web",
       "github_repo": "sqlmapproject/sqlmap",
       "version": "latest"
     },
     "xsstrike": {
-      "description": "Web security tool",
+      "description": "Advanced XSS detection suite",
       "category": "web",
       "github_repo": "s0md3v/XSStrike",
       "version": "latest"
     },
     "commix": {
-      "description": "Web security tool",
+      "description": "Command injection exploitation tool",
       "category": "web",
       "github_repo": "commixproject/commix",
       "version": "latest"
     },
     "dirsearch": {
-      "description": "Web security tool",
+      "description": "Web path scanner",
       "category": "web",
       "github_repo": "maurosoria/dirsearch",
       "version": "latest"
@@ -211,13 +211,13 @@
       "version": "latest"
     },
     "nikto": {
-      "description": "Web security tool",
+      "description": "Web server scanner",
       "category": "web",
       "github_repo": "sullo/nikto",
       "version": "latest"
     },
     "wafw00f": {
-      "description": "Web security tool",
+      "description": "WAF fingerprinting tool",
       "category": "web",
       "github_repo": "EnableSecurity/wafw00f",
       "version": "latest"
@@ -307,19 +307,19 @@
       "version": "latest"
     },
     "nmap": {
-      "description": "Network security tool",
+      "description": "Network discovery and security auditing",
       "category": "network",
       "github_repo": "nmap/nmap",
       "version": "latest"
     },
     "masscan": {
-      "description": "Network security tool",
+      "description": "Mass IP port scanner",
       "category": "network",
       "github_repo": "robertdavidgraham/masscan",
       "version": "latest"
     },
     "tcpdump": {
-      "description": "Network security tool",
+      "description": "Command-line packet analyzer",
       "category": "network",
       "github_repo": "the-tcpdump-group/tcpdump",
       "version": "latest"
@@ -391,7 +391,7 @@
       "version": "latest"
     },
     "sherlock": {
-      "description": "OSINT tool",
+      "description": "Hunt social media accounts",
       "category": "osint",
       "github_repo": "sherlock-project/sherlock",
       "version": "latest"
@@ -403,19 +403,19 @@
       "version": "latest"
     },
     "theHarvester": {
-      "description": "OSINT tool",
+      "description": "E-mails, subdomains enumeration",
       "category": "osint",
       "github_repo": "laramies/theHarvester",
       "version": "latest"
     },
     "maigret": {
-      "description": "OSINT tool",
+      "description": "Collect dossier by username",
       "category": "osint",
       "github_repo": "soxoj/maigret",
       "version": "latest"
     },
     "photon": {
-      "description": "OSINT tool",
+      "description": "Fast crawler for OSINT",
       "category": "osint",
       "github_repo": "s0md3v/Photon",
       "version": "latest"
@@ -469,13 +469,13 @@
       "version": "latest"
     },
     "aircrack-ng": {
-      "description": "Wireless security tool",
+      "description": "WiFi security auditing suite",
       "category": "wireless",
       "github_repo": "aircrack-ng/aircrack-ng",
       "version": "latest"
     },
     "reaver": {
-      "description": "Wireless security tool",
+      "description": "WPS brute force attack",
       "category": "wireless",
       "github_repo": "t6x/reaver-wps-fork-t6x",
       "version": "latest"
@@ -505,13 +505,13 @@
       "version": "latest"
     },
     "hashcat": {
-      "description": "Password/crypto tool",
+      "description": "Advanced password recovery",
       "category": "crypto",
       "github_repo": "hashcat/hashcat",
       "version": "latest"
     },
     "john": {
-      "description": "Password/crypto tool",
+      "description": "John the Ripper password cracker",
       "category": "crypto",
       "github_repo": "openwall/john",
       "version": "latest"
@@ -523,14 +523,14 @@
       "version": "latest"
     },
     "crunch": {
-      "description": "Password/crypto tool",
-      "category": "crypto",
+      "description": "Wordlist generator",
+      "category": "password",
       "github_repo": "shadwork/crunch",
       "version": "latest"
     },
     "cewl": {
-      "description": "Password/crypto tool",
-      "category": "crypto",
+      "description": "Custom wordlist generator",
+      "category": "password",
       "github_repo": "digininja/CeWL",
       "version": "latest"
     },
@@ -547,7 +547,7 @@
       "version": "latest"
     },
     "metasploit": {
-      "description": "Exploitation tool",
+      "description": "Penetration testing framework",
       "category": "exploit",
       "github_repo": "rapid7/metasploit-framework",
       "version": "latest"
@@ -559,13 +559,13 @@
       "version": "latest"
     },
     "routersploit": {
-      "description": "Exploitation tool",
+      "description": "Router exploitation framework",
       "category": "exploit",
       "github_repo": "threat9/routersploit",
       "version": "latest"
     },
     "beef": {
-      "description": "Exploitation tool",
+      "description": "Browser exploitation framework",
       "category": "exploit",
       "github_repo": "beefproject/beef",
       "version": "latest"
@@ -631,7 +631,7 @@
       "version": "latest"
     },
     "radare2": {
-      "description": "Reverse engineering tool",
+      "description": "Reverse engineering framework",
       "category": "reverse",
       "github_repo": "radareorg/radare2",
       "version": "latest"
@@ -643,7 +643,7 @@
       "version": "latest"
     },
     "binwalk": {
-      "description": "Reverse engineering tool",
+      "description": "Firmware analysis tool",
       "category": "reverse",
       "github_repo": "ReFirmLabs/binwalk",
       "version": "latest"
@@ -673,13 +673,13 @@
       "version": "latest"
     },
     "apktool": {
-      "description": "Mobile security tool",
+      "description": "Reverse engineering Android APKs",
       "category": "mobile",
       "github_repo": "iBotPeaches/Apktool",
       "version": "latest"
     },
     "jadx": {
-      "description": "Mobile security tool",
+      "description": "Dex to Java decompiler",
       "category": "mobile",
       "github_repo": "skylot/jadx",
       "version": "latest"
@@ -697,19 +697,19 @@
       "version": "latest"
     },
     "objection": {
-      "description": "Mobile security tool",
+      "description": "Runtime mobile exploration",
       "category": "mobile",
-      "github_repo": "1N3/objection",
+      "github_repo": "sensepost/objection",
       "version": "latest"
     },
     "frida": {
-      "description": "Mobile security tool",
+      "description": "Dynamic instrumentation toolkit",
       "category": "mobile",
       "github_repo": "frida/frida",
       "version": "latest"
     },
     "mobsf": {
-      "description": "Mobile security tool",
+      "description": "Mobile Security Framework",
       "category": "mobile",
       "github_repo": "MobSF/Mobile-Security-Framework-MobSF",
       "version": "latest"
@@ -751,7 +751,7 @@
       "version": "latest"
     },
     "autopsy": {
-      "description": "Forensics tool",
+      "description": "Digital forensics platform",
       "category": "forensics",
       "github_repo": "sleuthkit/autopsy",
       "version": "latest"
@@ -763,7 +763,7 @@
       "version": "latest"
     },
     "volatility": {
-      "description": "Forensics tool",
+      "description": "Memory forensics framework",
       "category": "forensics",
       "github_repo": "volatilityfoundation/volatility",
       "version": "latest"

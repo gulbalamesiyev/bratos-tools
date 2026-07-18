@@ -1,1 +1,1 @@
-{"name":"jadx","description":"Mobile security tool","category":"mobile","github_repo":"skylot/jadx"}
+{"name":"jadx","description":"Dex to Java decompiler","category":"mobile","github_repo":"skylot/jadx","install_method":"git","git_url":"https://github.com/skylot/jadx.git","requirements":"false","post_install":"./gradlew dist"}

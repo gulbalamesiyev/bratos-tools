@@ -1,1 +1,1 @@
-{"name":"photon","description":"OSINT tool","category":"osint","github_repo":"s0md3v/Photon"}
+{"name":"photon","description":"Fast crawler for OSINT","category":"osint","github_repo":"s0md3v/Photon","install_method":"git","git_url":"https://github.com/s0md3v/Photon.git","requirements":"true"}

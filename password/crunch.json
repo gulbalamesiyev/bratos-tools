@@ -1,0 +1,1 @@
+{"name":"crunch","description":"Wordlist generator","category":"password","github_repo":"shadwork/crunch","install_method":"git","git_url":"https://github.com/shadwork/crunch.git","requirements":"false","post_install":"make && make install"}

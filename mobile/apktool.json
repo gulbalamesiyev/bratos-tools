@@ -1,1 +1,1 @@
-{"name":"apktool","description":"Mobile security tool","category":"mobile","github_repo":"iBotPeaches/Apktool"}
+{"name":"apktool","description":"Reverse engineering Android APKs","category":"mobile","github_repo":"iBotPeaches/Apktool","install_method":"git","git_url":"https://github.com/iBotPeaches/Apktool.git","requirements":"false","post_install":"./gradlew build"}

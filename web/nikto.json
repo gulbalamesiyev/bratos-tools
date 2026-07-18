@@ -1,1 +1,1 @@
-{"name":"nikto","description":"Web security tool","category":"web","github_repo":"sullo/nikto"}
+{"name":"nikto","description":"Web server scanner","category":"web","github_repo":"sullo/nikto","install_method":"git","git_url":"https://github.com/sullo/nikto.git","requirements":"false"}

@@ -1,1 +1,1 @@
-{"name":"aircrack-ng","description":"Wireless security tool","category":"wireless","github_repo":"aircrack-ng/aircrack-ng"}
+{"name":"aircrack-ng","description":"WiFi security auditing suite","category":"wireless","github_repo":"aircrack-ng/aircrack-ng","install_method":"git","git_url":"https://github.com/aircrack-ng/aircrack-ng.git","requirements":"false","post_install":"make && make install"}

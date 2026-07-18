@@ -1,1 +1,1 @@
-{"name":"hashcat","description":"Password/crypto tool","category":"crypto","github_repo":"hashcat/hashcat"}
+{"name":"hashcat","description":"Advanced password recovery","category":"crypto","github_repo":"hashcat/hashcat","install_method":"git","git_url":"https://github.com/hashcat/hashcat.git","requirements":"false","post_install":"make && make install"}

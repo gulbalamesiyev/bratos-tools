@@ -1,1 +1,1 @@
-{"name":"maigret","description":"OSINT tool","category":"osint","github_repo":"soxoj/maigret"}
+{"name":"maigret","description":"Collect dossier by username","category":"osint","github_repo":"soxoj/maigret","install_method":"git","git_url":"https://github.com/soxoj/maigret.git","requirements":"true"}

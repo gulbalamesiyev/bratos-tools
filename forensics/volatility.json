@@ -1,1 +1,1 @@
-{"name":"volatility","description":"Forensics tool","category":"forensics","github_repo":"volatilityfoundation/volatility"}
+{"name":"volatility","description":"Memory forensics framework","category":"forensics","github_repo":"volatilityfoundation/volatility","install_method":"git","git_url":"https://github.com/volatilityfoundation/volatility.git","requirements":"true"}

@@ -1,1 +1,1 @@
-{"name":"autopsy","description":"Forensics tool","category":"forensics","github_repo":"sleuthkit/autopsy"}
+{"name":"autopsy","description":"Digital forensics platform","category":"forensics","github_repo":"sleuthkit/autopsy","install_method":"git","git_url":"https://github.com/sleuthkit/autopsy.git","requirements":"true"}

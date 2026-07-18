@@ -1,1 +1,1 @@
-{"name":"masscan","description":"Network security tool","category":"network","github_repo":"robertdavidgraham/masscan"}
+{"name":"masscan","description":"Mass IP port scanner","category":"network","github_repo":"robertdavidgraham/masscan","install_method":"git","git_url":"https://github.com/robertdavidgraham/masscan.git","requirements":"false","post_install":"make && make install"}

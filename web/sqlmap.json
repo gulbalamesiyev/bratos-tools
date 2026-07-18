@@ -1,1 +1,1 @@
-{"name":"sqlmap","description":"Web security tool","category":"web","github_repo":"sqlmapproject/sqlmap"}
+{"name":"sqlmap","description":"Automatic SQL injection tool","category":"web","github_repo":"sqlmapproject/sqlmap","install_method":"git","git_url":"https://github.com/sqlmapproject/sqlmap.git","requirements":"false"}

@@ -1,1 +1,1 @@
-{"name":"mobsf","description":"Mobile security tool","category":"mobile","github_repo":"MobSF/Mobile-Security-Framework-MobSF"}
+{"name":"mobsf","description":"Mobile Security Framework","category":"mobile","github_repo":"MobSF/Mobile-Security-Framework-MobSF","install_method":"git","git_url":"https://github.com/MobSF/Mobile-Security-Framework-MobSF.git","requirements":"true","post_install":"pip install -r requirements.txt"}

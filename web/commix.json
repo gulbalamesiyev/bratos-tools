@@ -1,1 +1,1 @@
-{"name":"commix","description":"Web security tool","category":"web","github_repo":"commixproject/commix"}
+{"name":"commix","description":"Command injection exploitation tool","category":"web","github_repo":"commixproject/commix","install_method":"git","git_url":"https://github.com/commixproject/commix.git","requirements":"true"}
