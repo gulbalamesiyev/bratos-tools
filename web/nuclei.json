@@ -1,1 +1,1 @@
-{"name":"nuclei","description":"Fast vulnerability scanner based on templates","category":"web","github_repo":"projectdiscovery/nuclei","post_install":"nuclei -update-templates"}
+{"name":"nuclei","description":"Web security tool","category":"web","github_repo":"projectdiscovery/nuclei"}

@@ -1,165 +1,387 @@
 {
   "packages": {
     "subfinder": {
-      "description": "Fast passive subdomain enumeration",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "projectdiscovery/subfinder",
       "version": "latest"
     },
     "amass": {
-      "description": "In-depth network mapping & external asset discovery",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "owasp-amass/amass",
       "version": "latest"
     },
     "findomain": {
-      "description": "Fastest solution for domain recognition",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "Findomain/Findomain",
       "version": "latest"
     },
     "katana": {
-      "description": "Next-generation crawling and spidering framework",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "projectdiscovery/katana",
       "version": "latest"
     },
     "httpx": {
-      "description": "Fast and multi-purpose HTTP probing tool",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "projectdiscovery/httpx",
       "version": "latest"
     },
     "naabu": {
-      "description": "Fast port scanner with focus on reliability",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "projectdiscovery/naabu",
       "version": "latest"
     },
     "dnsx": {
-      "description": "Fast and multi-purpose DNS toolkit",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "projectdiscovery/dnsx",
       "version": "latest"
     },
     "shuffledns": {
-      "description": "Wrapper around massdns to enumerate valid subdomains",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "projectdiscovery/shuffledns",
       "version": "latest"
     },
     "uncover": {
-      "description": "Quickly discover exposed hosts using search engines",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "projectdiscovery/uncover",
       "version": "latest"
     },
     "hakrawler": {
-      "description": "Simple fast web crawler for gathering URLs",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "hakluke/hakrawler",
       "version": "latest"
     },
     "waybackurls": {
-      "description": "Fetch all URLs from Wayback Machine",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "tomnomnom/waybackurls",
       "version": "latest"
     },
     "gau": {
-      "description": "Fetch known URLs from multiple sources",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "lc/gau",
       "version": "latest"
     },
     "anew": {
-      "description": "Append new lines to a file, skipping duplicates",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "tomnomnom/anew",
       "version": "latest"
     },
     "qsreplace": {
-      "description": "Replace query string values with user-supplied values",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "tomnomnom/qsreplace",
       "version": "latest"
     },
     "gospider": {
-      "description": "Fast web spider written in Go",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "jaeles-project/gospider",
       "version": "latest"
     },
     "assetfinder": {
-      "description": "Find domains and subdomains related to a domain",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "tomnomnom/assetfinder",
       "version": "latest"
     },
     "gf": {
-      "description": "A wrapper around grep to avoid typing common patterns",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "tomnomnom/gf",
       "version": "latest"
     },
     "httprobe": {
-      "description": "Probe list of domains for working HTTP/HTTPS servers",
+      "description": "Reconnaissance tool",
       "category": "recon",
       "github_repo": "tomnomnom/httprobe",
       "version": "latest"
     },
+    "massdns": {
+      "description": "Reconnaissance tool",
+      "category": "recon",
+      "github_repo": "blechschmidt/massdns",
+      "version": "latest"
+    },
+    "puredns": {
+      "description": "Reconnaissance tool",
+      "category": "recon",
+      "github_repo": "d3mondev/puredns",
+      "version": "latest"
+    },
+    "dnsvalidator": {
+      "description": "Reconnaissance tool",
+      "category": "recon",
+      "github_repo": "vortexau/dnsvalidator",
+      "version": "latest"
+    },
+    "subzy": {
+      "description": "Reconnaissance tool",
+      "category": "recon",
+      "github_repo": "LukaSikic/subzy",
+      "version": "latest"
+    },
+    "subjack": {
+      "description": "Reconnaissance tool",
+      "category": "recon",
+      "github_repo": "haccer/subjack",
+      "version": "latest"
+    },
+    "dnsgen": {
+      "description": "Reconnaissance tool",
+      "category": "recon",
+      "github_repo": "ProjectAnte/dnsgen",
+      "version": "latest"
+    },
+    "alterx": {
+      "description": "Reconnaissance tool",
+      "category": "recon",
+      "github_repo": "projectdiscovery/alterx",
+      "version": "latest"
+    },
     "nuclei": {
-      "description": "Fast vulnerability scanner based on templates",
+      "description": "Web security tool",
       "category": "web",
       "github_repo": "projectdiscovery/nuclei",
       "version": "latest"
     },
     "ffuf": {
-      "description": "Fast web fuzzer written in Go",
+      "description": "Web security tool",
       "category": "web",
       "github_repo": "ffuf/ffuf",
       "version": "latest"
     },
     "dalfox": {
-      "description": "Powerful open-source XSS scanning tool and parameter analyzer",
+      "description": "Web security tool",
       "category": "web",
       "github_repo": "hahwul/dalfox",
       "version": "latest"
     },
     "arjun": {
-      "description": "HTTP parameter discovery suite (Python)",
+      "description": "Web security tool",
       "category": "web",
       "github_repo": "s0md3v/Arjun",
       "version": "latest"
     },
     "kiterunner": {
-      "description": "Contextual content discovery tool (API endpoints)",
+      "description": "Web security tool",
       "category": "web",
       "github_repo": "assetnote/kiterunner",
       "version": "latest"
     },
+    "sqlmap": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "sqlmapproject/sqlmap",
+      "version": "latest"
+    },
+    "xsstrike": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "s0md3v/XSStrike",
+      "version": "latest"
+    },
+    "commix": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "commixproject/commix",
+      "version": "latest"
+    },
+    "dirsearch": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "maurosoria/dirsearch",
+      "version": "latest"
+    },
+    "feroxbuster": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "epi052/feroxbuster",
+      "version": "latest"
+    },
+    "nikto": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "sullo/nikto",
+      "version": "latest"
+    },
+    "wafw00f": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "EnableSecurity/wafw00f",
+      "version": "latest"
+    },
+    "paramspider": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "devanshbatham/paramspider",
+      "version": "latest"
+    },
+    "sstimap": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "vladko312/SSTImap",
+      "version": "latest"
+    },
+    "nosqli": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "Charlie-belmer/nosqli",
+      "version": "latest"
+    },
+    "corscanner": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "chenjj/CORScanner",
+      "version": "latest"
+    },
+    "ssrfmap": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "swisskyrepo/SSRFmap",
+      "version": "latest"
+    },
+    "jwt-tool": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "ticarpi/jwt_tool",
+      "version": "latest"
+    },
+    "smuggler": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "defparam/smuggler",
+      "version": "latest"
+    },
+    "whatweb": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "urbanadventurer/WhatWeb",
+      "version": "latest"
+    },
+    "testssl": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "drwetter/testssl.sh",
+      "version": "latest"
+    },
+    "cmseek": {
+      "description": "Web security tool",
+      "category": "web",
+      "github_repo": "Tuhinshubhra/CMSeeK",
+      "version": "latest"
+    },
     "chisel": {
-      "description": "Fast TCP/UDP tunnel over HTTP",
+      "description": "Network security tool",
       "category": "network",
       "github_repo": "jpillora/chisel",
       "version": "latest"
     },
     "cloudflared": {
-      "description": "Cloudflare Tunnel client (argo tunnel)",
+      "description": "Network security tool",
       "category": "network",
       "github_repo": "cloudflare/cloudflared",
       "version": "latest"
     },
     "bettercap": {
-      "description": "Swiss army knife for network attacks and monitoring",
+      "description": "Network security tool",
       "category": "network",
       "github_repo": "bettercap/bettercap",
       "version": "latest"
     },
     "rustscan": {
-      "description": "Modern, fast port scanner",
+      "description": "Network security tool",
       "category": "network",
       "github_repo": "RustScan/RustScan",
+      "version": "latest"
+    },
+    "nmap": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "nmap/nmap",
+      "version": "latest"
+    },
+    "masscan": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "robertdavidgraham/masscan",
+      "version": "latest"
+    },
+    "tcpdump": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "the-tcpdump-group/tcpdump",
+      "version": "latest"
+    },
+    "socat": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "3ndG4me/socat",
+      "version": "latest"
+    },
+    "netcat": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "openbsd/src",
+      "version": "latest"
+    },
+    "ngrok": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "inconshreveable/ngrok",
+      "version": "latest"
+    },
+    "ligolo-ng": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "nicocha30/ligolo-ng",
+      "version": "latest"
+    },
+    "sshuttle": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "sshuttle/sshuttle",
+      "version": "latest"
+    },
+    "proxychains": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "rofl0r/proxychains-ng",
+      "version": "latest"
+    },
+    "arp-scan": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "royhills/arp-scan",
+      "version": "latest"
+    },
+    "responder": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "lgandx/Responder",
+      "version": "latest"
+    },
+    "mitmproxy": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "mitmproxy/mitmproxy",
+      "version": "latest"
+    },
+    "dnschef": {
+      "description": "Network security tool",
+      "category": "network",
+      "github_repo": "iphelix/dnschef",
       "version": "latest"
     },
     "trufflehog": {
@@ -168,22 +390,274 @@
       "github_repo": "trufflesecurity/trufflehog",
       "version": "latest"
     },
+    "sherlock": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "sherlock-project/sherlock",
+      "version": "latest"
+    },
+    "holehe": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "megadose/holehe",
+      "version": "latest"
+    },
+    "theHarvester": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "laramies/theHarvester",
+      "version": "latest"
+    },
+    "maigret": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "soxoj/maigret",
+      "version": "latest"
+    },
+    "photon": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "s0md3v/Photon",
+      "version": "latest"
+    },
+    "social-analyzer": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "qeeqbox/social-analyzer",
+      "version": "latest"
+    },
+    "recon-ng": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "lanmaster53/recon-ng",
+      "version": "latest"
+    },
+    "spiderfoot": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "smicallef/spiderfoot",
+      "version": "latest"
+    },
+    "metagoofil": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "laramies/metagoofil",
+      "version": "latest"
+    },
+    "blackbird": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "p1ngul1n0/blackbird",
+      "version": "latest"
+    },
+    "trape": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "jofpin/trape",
+      "version": "latest"
+    },
+    "ghunt": {
+      "description": "OSINT tool",
+      "category": "osint",
+      "github_repo": "mxrch/GHunt",
+      "version": "latest"
+    },
     "adb": {
-      "description": "Android Debug Bridge (included in platform-tools)",
-      "category": "apk",
-      "github_repo": "",
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "google/platform-tools",
+      "version": "latest"
+    },
+    "aircrack-ng": {
+      "description": "Wireless security tool",
+      "category": "wireless",
+      "github_repo": "aircrack-ng/aircrack-ng",
+      "version": "latest"
+    },
+    "reaver": {
+      "description": "Wireless security tool",
+      "category": "wireless",
+      "github_repo": "t6x/reaver-wps-fork-t6x",
+      "version": "latest"
+    },
+    "mdk4": {
+      "description": "Wireless security tool",
+      "category": "wireless",
+      "github_repo": "E7mer/Owl",
+      "version": "latest"
+    },
+    "hcxdumptool": {
+      "description": "Wireless security tool",
+      "category": "wireless",
+      "github_repo": "ZerBea/hcxdumptool",
+      "version": "latest"
+    },
+    "bully": {
+      "description": "Wireless security tool",
+      "category": "wireless",
+      "github_repo": "aanarchyy/bully",
+      "version": "latest"
+    },
+    "pixiewps": {
+      "description": "Wireless security tool",
+      "category": "wireless",
+      "github_repo": "wiire-a/pixiewps",
+      "version": "latest"
+    },
+    "hashcat": {
+      "description": "Password/crypto tool",
+      "category": "crypto",
+      "github_repo": "hashcat/hashcat",
+      "version": "latest"
+    },
+    "john": {
+      "description": "Password/crypto tool",
+      "category": "crypto",
+      "github_repo": "openwall/john",
+      "version": "latest"
+    },
+    "hydra": {
+      "description": "Password/crypto tool",
+      "category": "crypto",
+      "github_repo": "vanhauser-thc/thc-hydra",
+      "version": "latest"
+    },
+    "crunch": {
+      "description": "Password/crypto tool",
+      "category": "crypto",
+      "github_repo": "shadwork/crunch",
+      "version": "latest"
+    },
+    "cewl": {
+      "description": "Password/crypto tool",
+      "category": "crypto",
+      "github_repo": "digininja/CeWL",
+      "version": "latest"
+    },
+    "cupp": {
+      "description": "Password/crypto tool",
+      "category": "crypto",
+      "github_repo": "Mebus/cupp",
+      "version": "latest"
+    },
+    "wordlistctl": {
+      "description": "Password/crypto tool",
+      "category": "crypto",
+      "github_repo": "BlackArch/wordlistctl",
+      "version": "latest"
+    },
+    "metasploit": {
+      "description": "Exploitation tool",
+      "category": "exploit",
+      "github_repo": "rapid7/metasploit-framework",
+      "version": "latest"
+    },
+    "searchsploit": {
+      "description": "Exploitation tool",
+      "category": "exploit",
+      "github_repo": "offensive-security/exploitdb",
+      "version": "latest"
+    },
+    "routersploit": {
+      "description": "Exploitation tool",
+      "category": "exploit",
+      "github_repo": "threat9/routersploit",
+      "version": "latest"
+    },
+    "beef": {
+      "description": "Exploitation tool",
+      "category": "exploit",
+      "github_repo": "beefproject/beef",
+      "version": "latest"
+    },
+    "evilginx": {
+      "description": "Exploitation tool",
+      "category": "exploit",
+      "github_repo": "kgretzky/evilginx2",
+      "version": "latest"
+    },
+    "zphisher": {
+      "description": "Exploitation tool",
+      "category": "exploit",
+      "github_repo": "htr-tech/zphisher",
+      "version": "latest"
+    },
+    "awscli": {
+      "description": "Cloud security tool",
+      "category": "cloud",
+      "github_repo": "aws/aws-cli",
+      "version": "latest"
+    },
+    "azure-cli": {
+      "description": "Cloud security tool",
+      "category": "cloud",
+      "github_repo": "Azure/azure-cli",
+      "version": "latest"
+    },
+    "gcloud": {
+      "description": "Cloud security tool",
+      "category": "cloud",
+      "github_repo": "google-cloud-sdk/gcloud",
+      "version": "latest"
+    },
+    "scoutsuite": {
+      "description": "Cloud security tool",
+      "category": "cloud",
+      "github_repo": "nccgroup/ScoutSuite",
+      "version": "latest"
+    },
+    "prowler": {
+      "description": "Cloud security tool",
+      "category": "cloud",
+      "github_repo": "prowler-cloud/prowler",
+      "version": "latest"
+    },
+    "pacu": {
+      "description": "Cloud security tool",
+      "category": "cloud",
+      "github_repo": "RhinoSecurityLabs/pacu",
+      "version": "latest"
+    },
+    "cloudlist": {
+      "description": "Cloud security tool",
+      "category": "cloud",
+      "github_repo": "projectdiscovery/cloudlist",
       "version": "latest"
     },
     "upx": {
-      "description": "Ultimate Packer for eXecutables",
+      "description": "Reverse engineering tool",
       "category": "reverse",
       "github_repo": "upx/upx",
       "version": "latest"
     },
-    "gdb": {
-      "description": "GNU Debugger",
+    "radare2": {
+      "description": "Reverse engineering tool",
       "category": "reverse",
-      "github_repo": "",
+      "github_repo": "radareorg/radare2",
+      "version": "latest"
+    },
+    "gdb": {
+      "description": "Reverse engineering tool",
+      "category": "reverse",
+      "github_repo": "gdb/gdb",
+      "version": "latest"
+    },
+    "binwalk": {
+      "description": "Reverse engineering tool",
+      "category": "reverse",
+      "github_repo": "ReFirmLabs/binwalk",
+      "version": "latest"
+    },
+    "cutter": {
+      "description": "Reverse engineering tool",
+      "category": "reverse",
+      "github_repo": "rizinorg/cutter",
+      "version": "latest"
+    },
+    "ghidra": {
+      "description": "Reverse engineering tool",
+      "category": "reverse",
+      "github_repo": "NationalSecurityAgency/ghidra",
       "version": "latest"
     },
     "notify": {
@@ -196,6 +670,150 @@
       "description": "OOB interaction gathering server and client",
       "category": "misc",
       "github_repo": "projectdiscovery/interactsh",
+      "version": "latest"
+    },
+    "apktool": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "iBotPeaches/Apktool",
+      "version": "latest"
+    },
+    "jadx": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "skylot/jadx",
+      "version": "latest"
+    },
+    "dex2jar": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "pxb1988/dex2jar",
+      "version": "latest"
+    },
+    "smali": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "JesusFreke/smali",
+      "version": "latest"
+    },
+    "objection": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "1N3/objection",
+      "version": "latest"
+    },
+    "frida": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "frida/frida",
+      "version": "latest"
+    },
+    "mobsf": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "MobSF/Mobile-Security-Framework-MobSF",
+      "version": "latest"
+    },
+    "apkleaks": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "dwisiswant0/apkleaks",
+      "version": "latest"
+    },
+    "scrcpy": {
+      "description": "Mobile security tool",
+      "category": "mobile",
+      "github_repo": "Genymobile/scrcpy",
+      "version": "latest"
+    },
+    "yara": {
+      "description": "Malware analysis tool",
+      "category": "malware",
+      "github_repo": "VirusTotal/yara",
+      "version": "latest"
+    },
+    "capa": {
+      "description": "Malware analysis tool",
+      "category": "malware",
+      "github_repo": "mandiant/capa",
+      "version": "latest"
+    },
+    "flare-floss": {
+      "description": "Malware analysis tool",
+      "category": "malware",
+      "github_repo": "mandiant/flare-floss",
+      "version": "latest"
+    },
+    "dnspy": {
+      "description": "Malware analysis tool",
+      "category": "malware",
+      "github_repo": "dnSpy/dnSpy",
+      "version": "latest"
+    },
+    "autopsy": {
+      "description": "Forensics tool",
+      "category": "forensics",
+      "github_repo": "sleuthkit/autopsy",
+      "version": "latest"
+    },
+    "sleuthkit": {
+      "description": "Forensics tool",
+      "category": "forensics",
+      "github_repo": "sleuthkit/sleuthkit",
+      "version": "latest"
+    },
+    "volatility": {
+      "description": "Forensics tool",
+      "category": "forensics",
+      "github_repo": "volatilityfoundation/volatility",
+      "version": "latest"
+    },
+    "bulk-extractor": {
+      "description": "Forensics tool",
+      "category": "forensics",
+      "github_repo": "simsong/bulk_extractor",
+      "version": "latest"
+    },
+    "foremost": {
+      "description": "Forensics tool",
+      "category": "forensics",
+      "github_repo": "andrewdotn/foremost",
+      "version": "latest"
+    },
+    "testdisk": {
+      "description": "Forensics tool",
+      "category": "forensics",
+      "github_repo": "cgsecurity/testdisk",
+      "version": "latest"
+    },
+    "steghide": {
+      "description": "Steganography tool",
+      "category": "stego",
+      "github_repo": "StefanoDeVuono/steghide",
+      "version": "latest"
+    },
+    "stegsolve": {
+      "description": "Steganography tool",
+      "category": "stego",
+      "github_repo": "zardus/stegsolve",
+      "version": "latest"
+    },
+    "zsteg": {
+      "description": "Steganography tool",
+      "category": "stego",
+      "github_repo": "zed-0xff/zsteg",
+      "version": "latest"
+    },
+    "exiftool": {
+      "description": "Steganography tool",
+      "category": "stego",
+      "github_repo": "exiftool/exiftool",
+      "version": "latest"
+    },
+    "stegseek": {
+      "description": "Steganography tool",
+      "category": "stego",
+      "github_repo": "unverricht/stegseek",
       "version": "latest"
     }
   }
