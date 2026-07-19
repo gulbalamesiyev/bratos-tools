@@ -1026,48 +1026,6 @@
       "github_repo": "RickdeJager/stegseek",
       "version": "latest"
     },
-    "garak": {
-      "description": "LLM vulnerability scanner - finds prompt injection & jailbreak",
-      "category": "ai",
-      "github_repo": "leondz/garak",
-      "version": "latest"
-    },
-    "llm-fuzzer": {
-      "description": "Fuzzer for LLM applications - finds data leaks",
-      "category": "ai",
-      "github_repo": "microsoft/llm-fuzzer",
-      "version": "latest"
-    },
-    "inspect-ai": {
-      "description": "AI agent security testing framework",
-      "category": "ai",
-      "github_repo": "UKGovernmentBEIS/inspect_ai",
-      "version": "latest"
-    },
-    "openai-cli": {
-      "description": "OpenAI API CLI tool - lightweight, no torch needed",
-      "category": "ai",
-      "github_repo": "kharvd/openai-cli",
-      "version": "latest"
-    },
-    "shell-gpt": {
-      "description": "ChatGPT in terminal - lightweight Python",
-      "category": "ai",
-      "github_repo": "TheR1D/shell_gpt",
-      "version": "latest"
-    },
-    "fabric": {
-      "description": "AI framework for augmenting human capabilities",
-      "category": "ai",
-      "github_repo": "danielmiessler/fabric",
-      "version": "latest"
-    },
-    "gpt-cli": {
-      "description": "Simple GPT CLI for pentesters",
-      "category": "ai",
-      "github_repo": "j178/gpt-cli",
-      "version": "latest"
-    },
     "bluepy": {
       "description": "Bluetooth LE interface",
       "category": "bluetooth",

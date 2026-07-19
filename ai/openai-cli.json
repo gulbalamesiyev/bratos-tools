@@ -1,1 +1,0 @@
-{"name":"openai-cli","description":"OpenAI API CLI tool - lightweight, no torch needed","category":"ai","github_repo":"kharvd/openai-cli","install_method":"git","git_url":"https://github.com/kharvd/openai-cli.git","requirements":"true"}
