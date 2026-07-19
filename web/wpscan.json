@@ -1,0 +1,1 @@
+{"name":"wpscan","description":"WordPress security scanner (Ruby)","category":"web","github_repo":"wpscanteam/wpscan","install_method":"git","git_url":"https://github.com/wpscanteam/wpscan.git","requirements":"true","post_install":"gem install wpscan"}

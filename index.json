@@ -312,6 +312,24 @@
       "github_repo": "Tuhinshubhra/CMSeeK",
       "version": "latest"
     },
+    "gobuster": {
+      "description": "Directory/file & DNS busting tool in Go",
+      "category": "web",
+      "github_repo": "OJ/gobuster",
+      "version": "latest"
+    },
+    "wpscan": {
+      "description": "WordPress security scanner (Ruby)",
+      "category": "web",
+      "github_repo": "wpscanteam/wpscan",
+      "version": "latest"
+    },
+    "graphql-scanner": {
+      "description": "GraphQL endpoint scanner",
+      "category": "web",
+      "github_repo": "dolevf/graphql-scanner",
+      "version": "latest"
+    },
     "chisel": {
       "description": "Fast TCP/UDP tunnel over HTTP",
       "category": "network",
@@ -414,6 +432,18 @@
       "github_repo": "iphelix/dnschef",
       "version": "latest"
     },
+    "impacket": {
+      "description": "Network protocols implementation",
+      "category": "network",
+      "github_repo": "fortra/impacket",
+      "version": "latest"
+    },
+    "crackmapexec": {
+      "description": "Network exploitation & enumeration",
+      "category": "network",
+      "github_repo": "byt3bl33d3r/CrackMapExec",
+      "version": "latest"
+    },
     "trufflehog": {
       "description": "Find and verify credentials in repos",
       "category": "osint",
@@ -490,6 +520,18 @@
       "description": "Google account investigation tool",
       "category": "osint",
       "github_repo": "mxrch/GHunt",
+      "version": "latest"
+    },
+    "instaloader": {
+      "description": "Instagram scraper",
+      "category": "osint",
+      "github_repo": "instaloader/instaloader",
+      "version": "latest"
+    },
+    "twint": {
+      "description": "Twitter intelligence tool",
+      "category": "osint",
+      "github_repo": "twintproject/twint",
       "version": "latest"
     },
     "adb": {
@@ -612,6 +654,24 @@
       "github_repo": "htr-tech/zphisher",
       "version": "latest"
     },
+    "empire": {
+      "description": "Post-exploitation framework",
+      "category": "exploit",
+      "github_repo": "BC-SECURITY/Empire",
+      "version": "latest"
+    },
+    "sliver": {
+      "description": "Adversary emulation framework",
+      "category": "exploit",
+      "github_repo": "BishopFox/sliver",
+      "version": "latest"
+    },
+    "seclists": {
+      "description": "Security wordlists collection",
+      "category": "password",
+      "github_repo": "danielmiessler/SecLists",
+      "version": "latest"
+    },
     "awscli": {
       "description": "Cloud security tool",
       "category": "cloud",
@@ -685,7 +745,7 @@
       "version": "latest"
     },
     "ghidra": {
-      "description": "Reverse engineering tool",
+      "description": "NSA reverse engineering suite (Java)",
       "category": "reverse",
       "github_repo": "NationalSecurityAgency/ghidra",
       "version": "latest"
@@ -694,6 +754,18 @@
       "description": "OOB interaction gathering server/client",
       "category": "misc",
       "github_repo": "projectdiscovery/interactsh",
+      "version": "latest"
+    },
+    "payloadsallthethings": {
+      "description": "Payloads & bypasses collection",
+      "category": "misc",
+      "github_repo": "swisskyrepo/PayloadsAllTheThings",
+      "version": "latest"
+    },
+    "cheatsheets": {
+      "description": "Pentest cheatsheets",
+      "category": "misc",
+      "github_repo": "Ignitetechnologies/Privilege-Escalation",
       "version": "latest"
     },
     "apktool": {
@@ -838,6 +910,24 @@
       "description": "Lightning fast steghide cracker",
       "category": "stego",
       "github_repo": "RickdeJager/stegseek",
+      "version": "latest"
+    },
+    "bluepy": {
+      "description": "Bluetooth LE interface",
+      "category": "bluetooth",
+      "github_repo": "IanHarvey/bluepy",
+      "version": "latest"
+    },
+    "gattacker": {
+      "description": "Bluetooth GATT attack tool",
+      "category": "bluetooth",
+      "github_repo": "securing/gattacker",
+      "version": "latest"
+    },
+    "sipvicious": {
+      "description": "SIP/VOIP security testing",
+      "category": "voip",
+      "github_repo": "EnableSecurity/sipvicious",
       "version": "latest"
     }
   }

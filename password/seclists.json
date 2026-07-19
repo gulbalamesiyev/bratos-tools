@@ -1,0 +1,1 @@
+{"name":"seclists","description":"Security wordlists collection","category":"password","github_repo":"danielmiessler/SecLists","install_method":"git","git_url":"https://github.com/danielmiessler/SecLists.git","requirements":"false"}
