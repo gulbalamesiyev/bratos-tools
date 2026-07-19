@@ -1,0 +1,1 @@
+{"name":"tplmap","description":"Server-Side Template Injection (SSTI) detection and exploitation tool - find and exploit SSTI vulnerabilities in web applications and APIs","category":"api","github_repo":"epinna/tplmap","install_method":"git","git_url":"https://github.com/epinna/tplmap.git","requirements":"true"}

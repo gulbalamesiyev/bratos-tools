@@ -1,0 +1,1 @@
+{"name":"peirates","description":"Kubernetes cluster penetration testing tool - enumerate pods, steal secrets, abuse service accounts and escape containers to compromise the entire cluster","category":"container","github_repo":"inguardians/peirates"}

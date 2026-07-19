@@ -1,0 +1,1 @@
+{"name":"scarecrow","description":"Payload generation and obfuscation framework - generate AV-evading shellcode loaders, bypass Windows Defender, AMSI and ETW for red team operations","category":"av","github_repo":"optiv/ScareCrow"}

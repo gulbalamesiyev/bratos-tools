@@ -1,0 +1,1 @@
+{"name":"sharphound","description":"BloodHound data collector for Active Directory - enumerate users, groups, computers, ACLs, trusts and sessions for attack path analysis","category":"ad","github_repo":"BloodHoundAD/SharpHound","install_method":"git","git_url":"https://github.com/BloodHoundAD/SharpHound.git","requirements":"false"}

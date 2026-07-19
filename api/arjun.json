@@ -1,0 +1,1 @@
+{"name":"arjun","description":"HTTP parameter discovery suite - find hidden GET/POST/JSON parameters for web fuzzing, API testing and vulnerability scanning","category":"api","github_repo":"s0md3v/Arjun","install_method":"git","git_url":"https://github.com/s0md3v/Arjun.git","requirements":"true"}

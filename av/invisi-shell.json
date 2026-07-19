@@ -1,0 +1,1 @@
+{"name":"invisi-shell","description":"Fully undetectable reverse shell - bypass AV/EDR by hooking .NET methods, encrypting traffic and hiding in legitimate processes","category":"av","github_repo":"OmerYa/Invisi-Shell","install_method":"git","git_url":"https://github.com/OmerYa/Invisi-Shell.git","requirements":"false"}

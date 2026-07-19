@@ -1,0 +1,1 @@
+{"name":"leaklooker","description":"Open database and leak search engine - find exposed databases, S3 buckets, Elasticsearch instances and leaked credentials across the internet","category":"source-osint","github_repo":"woj-ciech/LeakLooker","install_method":"git","git_url":"https://github.com/woj-ciech/LeakLooker.git","requirements":"true"}

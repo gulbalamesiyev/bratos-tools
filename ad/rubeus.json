@@ -1,0 +1,1 @@
+{"name":"rubeus","description":"Kerberos exploitation toolkit - ticket harvesting, Kerberoasting, AS-REP roasting, golden/silver ticket attacks for Active Directory privilege escalation","category":"ad","github_repo":"GhostPack/Rubeus","install_method":"git","git_url":"https://github.com/GhostPack/Rubeus.git","requirements":"false"}

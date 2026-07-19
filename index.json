@@ -199,8 +199,8 @@
       "version": "latest"
     },
     "arjun": {
-      "description": "HTTP parameter discovery suite",
-      "category": "web",
+      "description": "HTTP parameter discovery suite - find hidden GET/POST/JSON parameters for web fuzzing, API testing and vulnerability scanning",
+      "category": "api",
       "github_repo": "s0md3v/Arjun",
       "version": "latest"
     },
@@ -289,8 +289,8 @@
       "version": "latest"
     },
     "smuggler": {
-      "description": "HTTP request smuggling scanner",
-      "category": "web",
+      "description": "HTTP Request Smuggling detection and exploitation scanner - find CL.TE, TE.CL, TE.TE vulnerabilities in web servers, proxies and API gateways",
+      "category": "api",
       "github_repo": "defparam/smuggler",
       "version": "latest"
     },
@@ -1026,6 +1026,18 @@
       "github_repo": "RickdeJager/stegseek",
       "version": "latest"
     },
+    "tplmap": {
+      "description": "Server-Side Template Injection (SSTI) detection and exploitation tool - find and exploit SSTI vulnerabilities in web applications and APIs",
+      "category": "api",
+      "github_repo": "epinna/tplmap",
+      "version": "latest"
+    },
+    "qrljacker": {
+      "description": "QR Code login session hijacking tool - exploit QR login functionality in web apps and APIs by stealing session tokens",
+      "category": "api",
+      "github_repo": "QRLJacker/QRLJacker",
+      "version": "latest"
+    },
     "bluepy": {
       "description": "Bluetooth LE interface",
       "category": "bluetooth",
@@ -1084,6 +1096,30 @@
       "description": "Find pre-Windows 2000 computers",
       "category": "ad",
       "github_repo": "garrettfoster13/pre2k",
+      "version": "latest"
+    },
+    "rubeus": {
+      "description": "Kerberos exploitation toolkit - ticket harvesting, Kerberoasting, AS-REP roasting, golden/silver ticket attacks for Active Directory privilege escalation",
+      "category": "ad",
+      "github_repo": "GhostPack/Rubeus",
+      "version": "latest"
+    },
+    "sharphound": {
+      "description": "BloodHound data collector for Active Directory - enumerate users, groups, computers, ACLs, trusts and sessions for attack path analysis",
+      "category": "ad",
+      "github_repo": "BloodHoundAD/SharpHound",
+      "version": "latest"
+    },
+    "snaffler": {
+      "description": "Active Directory file share crawler - automatically find sensitive files, credentials, certificates and configuration files on network shares",
+      "category": "ad",
+      "github_repo": "SnaffCon/Snaffler",
+      "version": "latest"
+    },
+    "mitm6": {
+      "description": "IPv6 DNS takeover tool for Active Directory - spoof DNS replies to capture NTLM hashes and force authentication for relay attacks",
+      "category": "ad",
+      "github_repo": "dirkjanm/mitm6",
       "version": "latest"
     },
     "linpeas": {
@@ -1240,6 +1276,78 @@
       "description": "Free software development toolkit for SDR",
       "category": "hardware",
       "github_repo": "gnuradio/gnuradio",
+      "version": "latest"
+    },
+    "threatcheck": {
+      "description": "Windows Defender signature evasion tool - split payloads to find which bytes trigger AV detection, then modify those bytes to bypass Windows Defender",
+      "category": "av",
+      "github_repo": "rasta-mouse/ThreatCheck",
+      "version": "latest"
+    },
+    "scarecrow": {
+      "description": "Payload generation and obfuscation framework - generate AV-evading shellcode loaders, bypass Windows Defender, AMSI and ETW for red team operations",
+      "category": "av",
+      "github_repo": "optiv/ScareCrow",
+      "version": "latest"
+    },
+    "invisi-shell": {
+      "description": "Fully undetectable reverse shell - bypass AV/EDR by hooking .NET methods, encrypting traffic and hiding in legitimate processes",
+      "category": "av",
+      "github_repo": "OmerYa/Invisi-Shell",
+      "version": "latest"
+    },
+    "botb": {
+      "description": "Container breakout detection and exploitation - test Docker/Kubernetes environments for privilege escalation, capability abuse, mount escape and kernel exploits",
+      "category": "container",
+      "github_repo": "stealthcopter/botb",
+      "version": "latest"
+    },
+    "peirates": {
+      "description": "Kubernetes cluster penetration testing tool - enumerate pods, steal secrets, abuse service accounts and escape containers to compromise the entire cluster",
+      "category": "container",
+      "github_repo": "inguardians/peirates",
+      "version": "latest"
+    },
+    "cloudfox": {
+      "description": "Cloud infrastructure enumeration tool - find exploitable resources, misconfigurations, exposed secrets and attack paths in AWS, Azure and GCP environments",
+      "category": "container",
+      "github_repo": "BishopFox/cloudfox",
+      "version": "latest"
+    },
+    "githound": {
+      "description": "GitHub secret and credential scanner - search commits, issues and pull requests for leaked API keys, passwords, tokens and sensitive configuration files",
+      "category": "source-osint",
+      "github_repo": "tillson/git-hound",
+      "version": "latest"
+    },
+    "dumpsterdiver": {
+      "description": "Advanced secret search tool for Git repositories - find hardcoded secrets, SSH keys, cloud credentials and database passwords in source code history",
+      "category": "source-osint",
+      "github_repo": "securing/DumpsterDiver",
+      "version": "latest"
+    },
+    "leaklooker": {
+      "description": "Open database and leak search engine - find exposed databases, S3 buckets, Elasticsearch instances and leaked credentials across the internet",
+      "category": "source-osint",
+      "github_repo": "woj-ciech/LeakLooker",
+      "version": "latest"
+    },
+    "airgeddon": {
+      "description": "Multi-purpose wireless attack framework - WPA/WPA2 cracking, evil twin attacks, WPS brute force, captive portal creation and enterprise WiFi security auditing",
+      "category": "enterprise-wireless",
+      "github_repo": "v1s1t0r1sh3r3/airgeddon",
+      "version": "latest"
+    },
+    "eaphammer": {
+      "description": "Enterprise WiFi attack toolkit - WPA2-Enterprise RADIUS impersonation, credential harvesting, KARMA attacks and captive portal for corporate network penetration testing",
+      "category": "enterprise-wireless",
+      "github_repo": "s0lst1c3/eaphammer",
+      "version": "latest"
+    },
+    "bleah": {
+      "description": "Bluetooth Low Energy (BLE) smart device hacking tool - scan, enumerate, read/write characteristics and exploit BLE devices like smart locks, fitness trackers and IoT sensors",
+      "category": "enterprise-wireless",
+      "github_repo": "evilsocket/bleah",
       "version": "latest"
     }
   }

@@ -1,0 +1,1 @@
+{"name":"githound","description":"GitHub secret and credential scanner - search commits, issues and pull requests for leaked API keys, passwords, tokens and sensitive configuration files","category":"source-osint","github_repo":"tillson/git-hound","install_method":"git","git_url":"https://github.com/tillson/git-hound.git","requirements":"true"}

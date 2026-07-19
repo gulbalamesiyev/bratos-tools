@@ -1,0 +1,1 @@
+{"name":"qrljacker","description":"QR Code login session hijacking tool - exploit QR login functionality in web apps and APIs by stealing session tokens","category":"api","github_repo":"QRLJacker/QRLJacker","install_method":"git","git_url":"https://github.com/QRLJacker/QRLJacker.git","requirements":"true"}

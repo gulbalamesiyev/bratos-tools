@@ -1,0 +1,1 @@
+{"name":"threatcheck","description":"Windows Defender signature evasion tool - split payloads to find which bytes trigger AV detection, then modify those bytes to bypass Windows Defender","category":"av","github_repo":"rasta-mouse/ThreatCheck"}

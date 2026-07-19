@@ -1,0 +1,1 @@
+{"name":"dumpsterdiver","description":"Advanced secret search tool for Git repositories - find hardcoded secrets, SSH keys, cloud credentials and database passwords in source code history","category":"source-osint","github_repo":"securing/DumpsterDiver","install_method":"git","git_url":"https://github.com/securing/DumpsterDiver.git","requirements":"true"}

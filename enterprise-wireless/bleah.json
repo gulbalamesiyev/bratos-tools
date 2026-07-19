@@ -1,0 +1,1 @@
+{"name":"bleah","description":"Bluetooth Low Energy (BLE) smart device hacking tool - scan, enumerate, read/write characteristics and exploit BLE devices like smart locks, fitness trackers and IoT sensors","category":"enterprise-wireless","github_repo":"evilsocket/bleah","install_method":"git","git_url":"https://github.com/evilsocket/bleah.git","requirements":"true"}

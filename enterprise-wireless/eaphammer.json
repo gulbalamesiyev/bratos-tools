@@ -1,0 +1,1 @@
+{"name":"eaphammer","description":"Enterprise WiFi attack toolkit - WPA2-Enterprise RADIUS impersonation, credential harvesting, KARMA attacks and captive portal for corporate network penetration testing","category":"enterprise-wireless","github_repo":"s0lst1c3/eaphammer","install_method":"git","git_url":"https://github.com/s0lst1c3/eaphammer.git","requirements":"true"}

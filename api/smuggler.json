@@ -1,0 +1,1 @@
+{"name":"smuggler","description":"HTTP Request Smuggling detection and exploitation scanner - find CL.TE, TE.CL, TE.TE vulnerabilities in web servers, proxies and API gateways","category":"api","github_repo":"defparam/smuggler","install_method":"git","git_url":"https://github.com/defparam/smuggler.git","requirements":"false"}
