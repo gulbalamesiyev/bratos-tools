@@ -1,0 +1,1 @@
+{"name":"donut","description":"In-memory shellcode generator","category":"reverse","github_repo":"TheWover/donut","install_method":"git","git_url":"https://github.com/TheWover/donut.git","requirements":"false","post_install":"make"}

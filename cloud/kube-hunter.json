@@ -1,0 +1,1 @@
+{"name":"kube-hunter","description":"Kubernetes security scanner","category":"cloud","github_repo":"aquasecurity/kube-hunter","install_method":"git","git_url":"https://github.com/aquasecurity/kube-hunter.git","requirements":"true"}

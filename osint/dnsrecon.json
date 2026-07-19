@@ -1,0 +1,1 @@
+{"name":"dnsrecon","description":"DNS reconnaissance & zone transfer","category":"osint","github_repo":"darkoperator/dnsrecon","install_method":"git","git_url":"https://github.com/darkoperator/dnsrecon.git","requirements":"true"}

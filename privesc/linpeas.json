@@ -1,0 +1,1 @@
+{"name":"linpeas","description":"Linux privilege escalation scanner","category":"privesc","github_repo":"carlospolop/PEASS-ng","install_method":"git","git_url":"https://github.com/carlospolop/PEASS-ng.git","requirements":"false"}

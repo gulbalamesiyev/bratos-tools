@@ -1,0 +1,1 @@
+{"name":"beroot","description":"Cross-platform privilege escalation checker","category":"privesc","github_repo":"AlessandroZ/BeRoot","install_method":"git","git_url":"https://github.com/AlessandroZ/BeRoot.git","requirements":"false"}

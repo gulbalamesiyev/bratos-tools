@@ -1,0 +1,1 @@
+{"name":"ldapdomaindump","description":"LDAP domain information dumper","category":"ad","github_repo":"dirkjanm/ldapdomaindump","install_method":"git","git_url":"https://github.com/dirkjanm/ldapdomaindump.git","requirements":"true"}

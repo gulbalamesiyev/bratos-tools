@@ -330,6 +330,30 @@
       "github_repo": "dolevf/graphql-scanner",
       "version": "latest"
     },
+    "axiom": {
+      "description": "Cloud-based mass scanning framework",
+      "category": "web",
+      "github_repo": "pry0cc/axiom",
+      "version": "latest"
+    },
+    "gauplus": {
+      "description": "Faster gau - fetch URLs from multiple sources",
+      "category": "web",
+      "github_repo": "bp0lr/gauplus",
+      "version": "latest"
+    },
+    "headi": {
+      "description": "HTTP header attack automation",
+      "category": "web",
+      "github_repo": "mlcsec/headi",
+      "version": "latest"
+    },
+    "chopchop": {
+      "description": "Dynamic web application scanner",
+      "category": "web",
+      "github_repo": "michelin/ChopChop",
+      "version": "latest"
+    },
     "chisel": {
       "description": "Fast TCP/UDP tunnel over HTTP",
       "category": "network",
@@ -534,6 +558,24 @@
       "github_repo": "twintproject/twint",
       "version": "latest"
     },
+    "bbot": {
+      "description": "Massive OSINT & reconnaissance framework",
+      "category": "osint",
+      "github_repo": "blacklanternsecurity/bbot",
+      "version": "latest"
+    },
+    "dnsrecon": {
+      "description": "DNS reconnaissance & zone transfer",
+      "category": "osint",
+      "github_repo": "darkoperator/dnsrecon",
+      "version": "latest"
+    },
+    "cloudfinder": {
+      "description": "Find cloud providers behind domains",
+      "category": "osint",
+      "github_repo": "0xsha/CloudBrute",
+      "version": "latest"
+    },
     "adb": {
       "description": "Mobile security tool",
       "category": "mobile",
@@ -574,6 +616,18 @@
       "description": "Wireless security tool",
       "category": "wireless",
       "github_repo": "wiire-a/pixiewps",
+      "version": "latest"
+    },
+    "wifiphisher": {
+      "description": "WiFi social engineering attack tool",
+      "category": "wireless",
+      "github_repo": "wifiphisher/wifiphisher",
+      "version": "latest"
+    },
+    "fluxion": {
+      "description": "WPA/WPA2 social engineering framework",
+      "category": "wireless",
+      "github_repo": "FluxionNetwork/fluxion",
       "version": "latest"
     },
     "hashcat": {
@@ -714,6 +768,36 @@
       "github_repo": "projectdiscovery/cloudlist",
       "version": "latest"
     },
+    "trivy": {
+      "description": "Container & vulnerability scanner",
+      "category": "cloud",
+      "github_repo": "aquasecurity/trivy",
+      "version": "latest"
+    },
+    "kube-hunter": {
+      "description": "Kubernetes security scanner",
+      "category": "cloud",
+      "github_repo": "aquasecurity/kube-hunter",
+      "version": "latest"
+    },
+    "kube-bench": {
+      "description": "Kubernetes CIS compliance checker",
+      "category": "cloud",
+      "github_repo": "aquasecurity/kube-bench",
+      "version": "latest"
+    },
+    "deepce": {
+      "description": "Docker container escape enumeration",
+      "category": "cloud",
+      "github_repo": "stealthcopter/deepce",
+      "version": "latest"
+    },
+    "cloudbrute": {
+      "description": "Cloud resource brute-force",
+      "category": "cloud",
+      "github_repo": "0xsha/CloudBrute",
+      "version": "latest"
+    },
     "upx": {
       "description": "Ultimate Packer for eXecutables",
       "category": "reverse",
@@ -748,6 +832,18 @@
       "description": "NSA reverse engineering suite (Java)",
       "category": "reverse",
       "github_repo": "NationalSecurityAgency/ghidra",
+      "version": "latest"
+    },
+    "donut": {
+      "description": "In-memory shellcode generator",
+      "category": "reverse",
+      "github_repo": "TheWover/donut",
+      "version": "latest"
+    },
+    "x64dbg": {
+      "description": "Windows debugger (open-source)",
+      "category": "reverse",
+      "github_repo": "x64dbg/x64dbg",
       "version": "latest"
     },
     "interactsh": {
@@ -820,6 +916,24 @@
       "description": "Display and control Android devices",
       "category": "mobile",
       "github_repo": "Genymobile/scrcpy",
+      "version": "latest"
+    },
+    "drozer": {
+      "description": "Android security testing framework",
+      "category": "mobile",
+      "github_repo": "WithSecureLabs/drozer",
+      "version": "latest"
+    },
+    "apkmitm": {
+      "description": "Auto-inject proxy certs into APK",
+      "category": "mobile",
+      "github_repo": "shroudedcode/apk-mitm",
+      "version": "latest"
+    },
+    "medusa": {
+      "description": "Frida-based dynamic analysis for mobile",
+      "category": "mobile",
+      "github_repo": "Ch0pin/medusa",
       "version": "latest"
     },
     "yara": {
@@ -928,6 +1042,102 @@
       "description": "SIP/VOIP security testing",
       "category": "voip",
       "github_repo": "EnableSecurity/sipvicious",
+      "version": "latest"
+    },
+    "bloodhound": {
+      "description": "AD attack path visualization",
+      "category": "ad",
+      "github_repo": "BloodHoundAD/BloodHound",
+      "version": "latest"
+    },
+    "netexec": {
+      "description": "Network execution & enumeration tool (modern crackmapexec)",
+      "category": "ad",
+      "github_repo": "Pennyw0rth/NetExec",
+      "version": "latest"
+    },
+    "certipy": {
+      "description": "ADCS exploitation tool",
+      "category": "ad",
+      "github_repo": "ly4k/Certipy",
+      "version": "latest"
+    },
+    "kerbrute": {
+      "description": "Kerberos user enumeration & brute-force",
+      "category": "ad",
+      "github_repo": "ropnop/kerbrute",
+      "version": "latest"
+    },
+    "ldapdomaindump": {
+      "description": "LDAP domain information dumper",
+      "category": "ad",
+      "github_repo": "dirkjanm/ldapdomaindump",
+      "version": "latest"
+    },
+    "coercer": {
+      "description": "Windows authentication coercion tool",
+      "category": "ad",
+      "github_repo": "p0dalirius/Coercer",
+      "version": "latest"
+    },
+    "pre2k": {
+      "description": "Find pre-Windows 2000 computers",
+      "category": "ad",
+      "github_repo": "garrettfoster13/pre2k",
+      "version": "latest"
+    },
+    "linpeas": {
+      "description": "Linux privilege escalation scanner",
+      "category": "privesc",
+      "github_repo": "carlospolop/PEASS-ng",
+      "version": "latest"
+    },
+    "winpeas": {
+      "description": "Windows privilege escalation scanner",
+      "category": "privesc",
+      "github_repo": "carlospolop/PEASS-ng",
+      "version": "latest"
+    },
+    "sudokiller": {
+      "description": "Sudo misconfiguration analyzer",
+      "category": "privesc",
+      "github_repo": "TH3xACE/SUDO_KILLER",
+      "version": "latest"
+    },
+    "beroot": {
+      "description": "Cross-platform privilege escalation checker",
+      "category": "privesc",
+      "github_repo": "AlessandroZ/BeRoot",
+      "version": "latest"
+    },
+    "gtfobins": {
+      "description": "GTFOBins lookup tool - living off the land",
+      "category": "privesc",
+      "github_repo": "GTFOBins/GTFOBins.github.io",
+      "version": "latest"
+    },
+    "havoc": {
+      "description": "Modern post-exploitation framework",
+      "category": "c2",
+      "github_repo": "HavocFramework/Havoc",
+      "version": "latest"
+    },
+    "mythic": {
+      "description": "Cross-platform C2 framework",
+      "category": "c2",
+      "github_repo": "its-a-feature/Mythic",
+      "version": "latest"
+    },
+    "covenant": {
+      "description": ".NET C2 framework for red teams",
+      "category": "c2",
+      "github_repo": "cobbr/Covenant",
+      "version": "latest"
+    },
+    "firmwalker": {
+      "description": "IoT firmware secret finder",
+      "category": "iot",
+      "github_repo": "craigz28/firmwalker",
       "version": "latest"
     }
   }

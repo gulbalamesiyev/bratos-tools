@@ -1,0 +1,1 @@
+{"name":"apkmitm","description":"Auto-inject proxy certs into APK","category":"mobile","github_repo":"shroudedcode/apk-mitm","install_method":"git","git_url":"https://github.com/shroudedcode/apk-mitm.git","requirements":"true"}
