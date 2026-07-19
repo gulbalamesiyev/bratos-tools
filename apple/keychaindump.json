@@ -1,0 +1,1 @@
+{"name":"keychaindump","description":"Mac keychain password extractor","category":"apple","github_repo":"juuso/keychaindump","install_method":"git","git_url":"https://github.com/juuso/keychaindump.git","requirements":"false","post_install":"make"}

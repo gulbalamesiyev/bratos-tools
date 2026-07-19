@@ -1,0 +1,1 @@
+{"name":"wfuzz","description":"Web application brute-forcer & fuzzer","category":"fuzzing","github_repo":"xmendez/wfuzz","install_method":"git","git_url":"https://github.com/xmendez/wfuzz.git","requirements":"true"}

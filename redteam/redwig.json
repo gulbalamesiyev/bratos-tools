@@ -1,0 +1,1 @@
+{"name":"redwig","description":"Dynamic redirector - rotate IPs across cloud providers","category":"redteam","github_repo":"RedWig/RedWig","install_method":"git","git_url":"https://github.com/RedWig/RedWig.git","requirements":"true"}

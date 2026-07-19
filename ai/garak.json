@@ -1,0 +1,1 @@
+{"name":"garak","description":"LLM vulnerability scanner - finds prompt injection & jailbreak","category":"ai","github_repo":"leondz/garak","install_method":"git","git_url":"https://github.com/leondz/garak.git","requirements":"true"}

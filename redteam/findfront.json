@@ -1,0 +1,1 @@
+{"name":"findfront","description":"Domain fronting detection tool","category":"redteam","github_repo":"FindFront/FindFront","install_method":"git","git_url":"https://github.com/FindFront/FindFront.git","requirements":"false"}

@@ -1,0 +1,1 @@
+{"name":"frida-ios-dump","description":"Decrypt iOS apps for analysis","category":"apple","github_repo":"AloneMonkey/frida-ios-dump","install_method":"git","git_url":"https://github.com/AloneMonkey/frida-ios-dump.git","requirements":"true"}

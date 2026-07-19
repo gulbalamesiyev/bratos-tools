@@ -1,0 +1,1 @@
+{"name":"gnuradio","description":"Free software development toolkit for SDR","category":"hardware","github_repo":"gnuradio/gnuradio","install_method":"git","git_url":"https://github.com/gnuradio/gnuradio.git","requirements":"true","post_install":"cmake"}

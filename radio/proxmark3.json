@@ -1,0 +1,1 @@
+{"name":"proxmark3","description":"RFID/NFC hacking - read, clone, emulate access cards","category":"radio","github_repo":"RfidResearchGroup/proxmark3","install_method":"git","git_url":"https://github.com/RfidResearchGroup/proxmark3.git","requirements":"false","post_install":"make"}

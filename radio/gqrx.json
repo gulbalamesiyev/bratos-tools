@@ -1,0 +1,1 @@
+{"name":"gqrx","description":"SDR receiver - visualize radio signals","category":"radio","github_repo":"gqrx-sdr/gqrx","install_method":"git","git_url":"https://github.com/gqrx-sdr/gqrx.git","requirements":"true"}

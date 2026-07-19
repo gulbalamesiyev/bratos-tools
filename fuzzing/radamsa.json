@@ -1,0 +1,1 @@
+{"name":"radamsa","description":"General purpose fuzzer - finds memory bugs","category":"fuzzing","github_repo":"aoh/radamsa","install_method":"git","git_url":"https://github.com/aoh/radamsa.git","requirements":"false","post_install":"make"}

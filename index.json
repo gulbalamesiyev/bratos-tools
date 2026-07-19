@@ -1026,6 +1026,24 @@
       "github_repo": "RickdeJager/stegseek",
       "version": "latest"
     },
+    "garak": {
+      "description": "LLM vulnerability scanner - finds prompt injection & jailbreak",
+      "category": "ai",
+      "github_repo": "leondz/garak",
+      "version": "latest"
+    },
+    "llm-fuzzer": {
+      "description": "Fuzzer for LLM applications - finds data leaks",
+      "category": "ai",
+      "github_repo": "microsoft/llm-fuzzer",
+      "version": "latest"
+    },
+    "inspect-ai": {
+      "description": "AI agent security testing framework",
+      "category": "ai",
+      "github_repo": "UKGovernmentBEIS/inspect_ai",
+      "version": "latest"
+    },
     "bluepy": {
       "description": "Bluetooth LE interface",
       "category": "bluetooth",
@@ -1138,6 +1156,108 @@
       "description": "IoT firmware secret finder",
       "category": "iot",
       "github_repo": "craigz28/firmwalker",
+      "version": "latest"
+    },
+    "urh": {
+      "description": "Universal Radio Hacker - wireless signal analysis & replay",
+      "category": "radio",
+      "github_repo": "jopohl/urh",
+      "version": "latest"
+    },
+    "proxmark3": {
+      "description": "RFID/NFC hacking - read, clone, emulate access cards",
+      "category": "radio",
+      "github_repo": "RfidResearchGroup/proxmark3",
+      "version": "latest"
+    },
+    "gqrx": {
+      "description": "SDR receiver - visualize radio signals",
+      "category": "radio",
+      "github_repo": "gqrx-sdr/gqrx",
+      "version": "latest"
+    },
+    "killerbee": {
+      "description": "ZigBee network attack & packet analysis",
+      "category": "radio",
+      "github_repo": "riverloopsec/killerbee",
+      "version": "latest"
+    },
+    "gophish": {
+      "description": "Professional phishing campaign manager",
+      "category": "social",
+      "github_repo": "gophish/gophish",
+      "version": "latest"
+    },
+    "evilginx3": {
+      "description": "Advanced 2FA/MFA bypass via session cookie theft",
+      "category": "social",
+      "github_repo": "kgretzky/evilginx2",
+      "version": "latest"
+    },
+    "modlishka": {
+      "description": "Reverse proxy phishing framework",
+      "category": "social",
+      "github_repo": "drmetter/modlishka",
+      "version": "latest"
+    },
+    "redwig": {
+      "description": "Dynamic redirector - rotate IPs across cloud providers",
+      "category": "redteam",
+      "github_repo": "RedWig/RedWig",
+      "version": "latest"
+    },
+    "findfront": {
+      "description": "Domain fronting detection tool",
+      "category": "redteam",
+      "github_repo": "FindFront/FindFront",
+      "version": "latest"
+    },
+    "redirectrules": {
+      "description": "C2 redirector rules generator",
+      "category": "redteam",
+      "github_repo": "RedTeamOperations/redirectrules",
+      "version": "latest"
+    },
+    "radamsa": {
+      "description": "General purpose fuzzer - finds memory bugs",
+      "category": "fuzzing",
+      "github_repo": "aoh/radamsa",
+      "version": "latest"
+    },
+    "honggfuzz": {
+      "description": "Google-backed fast code-level fuzzer",
+      "category": "fuzzing",
+      "github_repo": "google/honggfuzz",
+      "version": "latest"
+    },
+    "wfuzz": {
+      "description": "Web application brute-forcer & fuzzer",
+      "category": "fuzzing",
+      "github_repo": "xmendez/wfuzz",
+      "version": "latest"
+    },
+    "keychaindump": {
+      "description": "Mac keychain password extractor",
+      "category": "apple",
+      "github_repo": "juuso/keychaindump",
+      "version": "latest"
+    },
+    "frida-ios-dump": {
+      "description": "Decrypt iOS apps for analysis",
+      "category": "apple",
+      "github_repo": "AloneMonkey/frida-ios-dump",
+      "version": "latest"
+    },
+    "crescendo": {
+      "description": "macOS real-time security event monitor",
+      "category": "apple",
+      "github_repo": "SuprHackerSteve/Crescendo",
+      "version": "latest"
+    },
+    "gnuradio": {
+      "description": "Free software development toolkit for SDR",
+      "category": "hardware",
+      "github_repo": "gnuradio/gnuradio",
       "version": "latest"
     }
   }
